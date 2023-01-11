@@ -9,6 +9,28 @@ import { Image } from "@yext/pages/components";
 import { useSearchActions } from "@yext/search-headless-react";
 import { useEffect } from "react";
 
+const MovieCard = ({ result }: CardProps<Ce_Movie>) => {
+  const movie = result.rawData;
+
+  return (
+    <a href={movie.slug}>
+      <div className="flex flex-col items-center justify-center">
+        <div className="flex flex-col items-center justify-center">
+          {movie.c_moviePoster && (
+            <Image
+              layout="fixed"
+              image={movie.c_moviePoster}
+              height={300}
+              width={200}
+            />
+          )}
+          <h1 className="text-2xl font-bold text-white">{movie.name}</h1>
+        </div>
+      </div>
+    </a>
+  );
+};
+
 const SearchResults = () => {
   const searchActions = useSearchActions();
 
@@ -24,7 +46,7 @@ const SearchResults = () => {
     <>
       <h1 className="text-center text-2xl text-white">Results</h1>
       <VerticalResults
-        CardComponent={StandardCard}
+        CardComponent={MovieCard}
         customCssClasses={{
           verticalResultsContainer: "grid grid-cols-3 py-8 gap-4",
         }}
