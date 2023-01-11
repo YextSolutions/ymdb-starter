@@ -1,12 +1,11 @@
+const { ComponentsContentPath } = require("@yext/search-ui-react");
+
 module.exports = {
-  content: ["./src/**/*.{html,js,jsx,ts,tsx}"],
-  theme: {
-    extend: {
-      colors: {
-        orange: "#ff9500",
-        "dark-orange": "#db8000",
-      },
-    },
-  },
-  plugins: [],
+  content: [
+    "./src/**/*.{html,js,jsx,ts,tsx}",
+    "./lib/**/*.{js,jsx}",
+    ComponentsContentPath,
+  ],
+  theme: {},
+  plugins: [require("@tailwindcss/line-clamp")],
 };
