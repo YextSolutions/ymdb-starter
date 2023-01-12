@@ -17,7 +17,6 @@ const SearchResults = () => {
 
   return (
     <>
-      <h1 className="text-center text-2xl text-white">Results</h1>
       <VerticalResults
         CardComponent={MovieCard}
         customCssClasses={{

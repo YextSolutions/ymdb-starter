@@ -63,7 +63,7 @@ const Actor: Template<TemplateRenderProps> = ({
           <div className="w-96">
             <div className="flex flex-col items-center justify-center rounded-lg  p-4 opacity-80 shadow-2xl">
               <div className="rounded-lg bg-stone-200 py-2 px-8">
-                <h2 className="text-4xl font-extrabold">{name}</h2>
+                <h2 className="text-4xl font-extrabold font-heading">{name}</h2>
               </div>
             </div>
             <div className="font-body px-8 py-2 text-white">

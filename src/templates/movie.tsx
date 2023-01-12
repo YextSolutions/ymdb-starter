@@ -76,7 +76,7 @@ const movie: Template<TemplateRenderProps> = ({
           <div className="absolute top-16 left-16 w-96 py-4 ">
             <div className="flex flex-col items-center justify-center rounded-lg bg-gray-600 p-4 opacity-80 shadow-2xl">
               <div className="rounded-lg bg-stone-200 py-2 px-8">
-                <h2 className="text-4xl font-extrabold">{name}</h2>
+                <h2 className="text-4xl font-extrabold font-heading">{name}</h2>
               </div>
               <div className="font-body px-6">
                 <div className="flex-wrap py-4 text-white">
