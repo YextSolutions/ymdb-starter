@@ -32,7 +32,7 @@ const Home: Template<TemplateRenderProps> = () => {
       pageContainerStyle="flex flex-col justify-center"
     >
       <div className="my-auto mx-auto w-[500px] ">
-        <h1 className="font-extra-bold font-heading text-center text-7xl text-white">
+        <h1 className="font-extra-bold font-logo text-center text-7xl text-white">
           YMBD
         </h1>
         <SearchBar />

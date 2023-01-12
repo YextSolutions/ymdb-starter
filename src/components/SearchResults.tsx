@@ -1,35 +1,8 @@
 import * as React from "react";
-import {
-  CardProps,
-  VerticalResults,
-  StandardCard,
-} from "@yext/search-ui-react";
-import Ce_Movie from "../types/movies";
-import { Image } from "@yext/pages/components";
+import { VerticalResults } from "@yext/search-ui-react";
 import { useSearchActions } from "@yext/search-headless-react";
 import { useEffect } from "react";
-
-const MovieCard = ({ result }: CardProps<Ce_Movie>) => {
-  const movie = result.rawData;
-
-  return (
-    <a href={movie.slug}>
-      <div className="flex flex-col items-center justify-center">
-        <div className="flex flex-col items-center justify-center">
-          {movie.c_moviePoster && (
-            <Image
-              layout="fixed"
-              image={movie.c_moviePoster}
-              height={300}
-              width={200}
-            />
-          )}
-          <h1 className="text-2xl font-bold text-white">{movie.name}</h1>
-        </div>
-      </div>
-    </a>
-  );
-};
+import MovieCard from "./MovieCard";
 
 const SearchResults = () => {
   const searchActions = useSearchActions();
@@ -48,7 +21,8 @@ const SearchResults = () => {
       <VerticalResults
         CardComponent={MovieCard}
         customCssClasses={{
-          verticalResultsContainer: "grid grid-cols-3 py-8 gap-4",
+          verticalResultsContainer:
+            "grid grid-cols-4 py-8 gap-8 place-items-center",
         }}
       />
     </>
