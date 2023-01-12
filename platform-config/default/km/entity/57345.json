@@ -1,0 +1,40 @@
+{
+  "$id": "57345",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "From Wikipedia, the free encyclopedia. Alessandro Gassman (born February 24, 1965) is an Italian actor. Born in Rome, he is the son of actors Vittorio Gassman and Juliette Mayniel. Description above from the Wikipedia article Alessandro Gassman, licensed under CC\\-BY\\-SA, full list of contributors on Wikipedia",
+    "c_birthDate": "1965-02-24",
+    "c_birthPlace": "Rome, Italy",
+    "c_movies": [
+      "873126"
+    ],
+    "headshot": {
+      "height": 1500,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//3zss1TgmQZU0GSUGDGMbmfWS2e6.jpg",
+      "thumbnails": [
+        {
+          "height": 1500,
+          "url": "http://a.mktgcdn.com/p-sandbox/ssWgjjUo6gzza0WWcFTwch5Ud2FwXLsuolqcJiVsgig/1.0000/1500x1500.jpg",
+          "width": 1500
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/ssWgjjUo6gzza0WWcFTwch5Ud2FwXLsuolqcJiVsgig/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/ssWgjjUo6gzza0WWcFTwch5Ud2FwXLsuolqcJiVsgig/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/ssWgjjUo6gzza0WWcFTwch5Ud2FwXLsuolqcJiVsgig/1.0000/1500x1500.jpg",
+      "width": 1500
+    },
+    "name": "Alessandro Gassmann",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}

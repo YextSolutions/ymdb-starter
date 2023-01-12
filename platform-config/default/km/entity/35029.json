@@ -1,0 +1,40 @@
+{
+  "$id": "35029",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "David Kenneth Harbour (born April 10, 1975) is an American actor. He gained recognition for his portrayal of Jim Hopper in the Netflix science fiction drama series Stranger Things (2016–present), for which he earned a Critics\u0027 Choice Television Award in 2018. For the role, he also received Primetime Emmy Award and Golden Globe Award nominations. Harbour had supporting roles in films such as Brokeback Mountain (2005), Quantum of Solace (2008), The Green Hornet (2011), End of Watch (2012), The Equalizer (2014), Black Mass (2015), Suicide Squad (2016) and Black Widow (2021). He portrayed the title character in the superhero film Hellboy (2019).",
+    "c_birthDate": "1975-04-10",
+    "c_birthPlace": "New York City, New York, USA",
+    "c_movies": [
+      "899112"
+    ],
+    "headshot": {
+      "height": 1050,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//chPekukMF5SNnW6b22NbYPqAStr.jpg",
+      "thumbnails": [
+        {
+          "height": 1050,
+          "url": "http://a.mktgcdn.com/p-sandbox/J6Vv_m7SQxVcKjF1GNrpzmrnkTuRN6yVSSPPaOViRIY/1.0000/1050x1050.jpg",
+          "width": 1050
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/J6Vv_m7SQxVcKjF1GNrpzmrnkTuRN6yVSSPPaOViRIY/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/J6Vv_m7SQxVcKjF1GNrpzmrnkTuRN6yVSSPPaOViRIY/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/J6Vv_m7SQxVcKjF1GNrpzmrnkTuRN6yVSSPPaOViRIY/1.0000/1050x1050.jpg",
+      "width": 1050
+    },
+    "name": "David Harbour",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}

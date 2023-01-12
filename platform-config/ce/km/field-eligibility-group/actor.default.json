@@ -1,0 +1,15 @@
+{
+  "$id": "ce_actor.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Actor-default",
+  "entityType": "ce_actor",
+  "fields": [
+    "c_bio",
+    "c_birthDate",
+    "c_birthPlace",
+    "c_movies",
+    "headshot",
+    "slug"
+  ],
+  "required": []
+}

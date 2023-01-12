@@ -1,0 +1,40 @@
+{
+  "$id": "54738",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "From Wikipedia, the free encyclopedia Jack Alexander Huston (born 7 December 1982) is an English actor. Huston had a starring role in \"Neighborhood Watch\" and recently filmed Outlander (2008) with James Caviezel and Sophia Myles. He appeared in the third film in the Twilight series, Eclipse, where he played Royce King II. Huston currently appears in HBO\u0027s Boardwalk Empire as Richard Harrow, a heavily scarred World War I marksman turned gangster. On December 16, 2010, it was announced Huston would be made a series regular after appearing in five episodes of the first season. Description above from the Wikipedia article Jack Huston, licensed under CC\\-BY\\-SA, full list of contributors on Wikipedia.",
+    "c_birthDate": "1982-12-07",
+    "c_birthPlace": "London, England, UK",
+    "c_movies": [
+      "740952"
+    ],
+    "headshot": {
+      "height": 1801,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//s1lxyHBTpavcHMpeV03NTh7o6bd.jpg",
+      "thumbnails": [
+        {
+          "height": 1801,
+          "url": "http://a.mktgcdn.com/p-sandbox/pgzAhkHUEC1W6SoixClf6QpgG_c5TA-3S8fxQv8Uf4c/1.0000/1801x1801.jpg",
+          "width": 1801
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/pgzAhkHUEC1W6SoixClf6QpgG_c5TA-3S8fxQv8Uf4c/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/pgzAhkHUEC1W6SoixClf6QpgG_c5TA-3S8fxQv8Uf4c/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/pgzAhkHUEC1W6SoixClf6QpgG_c5TA-3S8fxQv8Uf4c/1.0000/1801x1801.jpg",
+      "width": 1801
+    },
+    "name": "Jack Huston",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}

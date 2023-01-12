@@ -8,7 +8,6 @@ const SearchResults = () => {
   const searchActions = useSearchActions();
 
   useEffect(() => {
-    // grab the vertical key and query from the URL, useSearchActions to set them in state, and run a vertical or universal search
     const urlParams = new URLSearchParams(window.location.search);
     const query = urlParams.get("query") ?? "";
     searchActions.setQuery(query);

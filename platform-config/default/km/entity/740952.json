@@ -1,0 +1,89 @@
+{
+  "$id": "740952",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_actors": [
+      "54738",
+      "380",
+      "6949"
+    ],
+    "c_backdropImage": {
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://image.tmdb.org/t/p/original/rodjjIJ8oh9nuBp86PhojcYHTEN.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/RVLJNWzZBDfFvn0oO_1lDePdBoGZK4L8PZ5TS21Flkg/1920x1080.jpg",
+            "width": 1920
+          },
+          {
+            "height": 1069,
+            "url": "http://a.mktgcdn.com/p-sandbox/RVLJNWzZBDfFvn0oO_1lDePdBoGZK4L8PZ5TS21Flkg/1900x1069.jpg",
+            "width": 1900
+          },
+          {
+            "height": 348,
+            "url": "http://a.mktgcdn.com/p-sandbox/RVLJNWzZBDfFvn0oO_1lDePdBoGZK4L8PZ5TS21Flkg/619x348.jpg",
+            "width": 619
+          },
+          {
+            "height": 338,
+            "url": "http://a.mktgcdn.com/p-sandbox/RVLJNWzZBDfFvn0oO_1lDePdBoGZK4L8PZ5TS21Flkg/600x338.jpg",
+            "width": 600
+          },
+          {
+            "height": 110,
+            "url": "http://a.mktgcdn.com/p-sandbox/RVLJNWzZBDfFvn0oO_1lDePdBoGZK4L8PZ5TS21Flkg/196x110.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/RVLJNWzZBDfFvn0oO_1lDePdBoGZK4L8PZ5TS21Flkg/1920x1080.jpg",
+        "width": 1920
+      }
+    },
+    "c_genres": [
+      "Action",
+      "Thriller",
+      "Crime",
+      "Drama"
+    ],
+    "c_moviePoster": {
+      "image": {
+        "height": 1500,
+        "sourceUrl": "https://image.tmdb.org/t/p/original/fJRt3mmZEvf8gQzoNLzjPtWpc9o.jpg",
+        "thumbnails": [
+          {
+            "height": 1500,
+            "url": "http://a.mktgcdn.com/p-sandbox/tSv_i9wW9MUJzR6E0GEEOUZdlxJzRJifFC3qG3rlK-E/1000x1500.jpg",
+            "width": 1000
+          },
+          {
+            "height": 929,
+            "url": "http://a.mktgcdn.com/p-sandbox/tSv_i9wW9MUJzR6E0GEEOUZdlxJzRJifFC3qG3rlK-E/619x929.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/tSv_i9wW9MUJzR6E0GEEOUZdlxJzRJifFC3qG3rlK-E/300x450.jpg",
+            "width": 300
+          },
+          {
+            "height": 294,
+            "url": "http://a.mktgcdn.com/p-sandbox/tSv_i9wW9MUJzR6E0GEEOUZdlxJzRJifFC3qG3rlK-E/196x294.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/tSv_i9wW9MUJzR6E0GEEOUZdlxJzRJifFC3qG3rlK-E/1000x1500.jpg",
+        "width": 1000
+      }
+    },
+    "c_releaseDate": "2022-12-02",
+    "description": "Newly engaged Shelby John and Ruby Red want a fresh start after their struggles with addiction, but when Shelby discovers his beloved Ruby dead on their porch, he embarks on a vengeful killing spree of the dealers who supplied her. Armed with nothing but adrenaline and a nail gun, Shelby begins to unleash chaos on the town’s criminal underbelly, as he hunt’s down crime lord Coyote. Sheriff Church must race against the clock to put an end to Shelby\u0027s vigilante justice before the entire town descends into a bloodbath.",
+    "name": "Savage Salvation",
+    "slug": "/movie/[[entityId]]"
+  },
+  "entityType": "ce_movie",
+  "labels": []
+}

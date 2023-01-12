@@ -50,7 +50,7 @@ export const getHeadConfig: GetHeadConfig<TemplateRenderProps> = ({
   };
 };
 
-const Actor: Template<TemplateRenderProps> = ({
+const actor: Template<TemplateRenderProps> = ({
   document,
 }: TemplateRenderProps) => {
   const { name, c_birthDate, headshot, c_bio, c_birthPlace, c_movies } =
@@ -93,4 +93,4 @@ const Actor: Template<TemplateRenderProps> = ({
   );
 };
 
-export default Actor;
+export default actor;

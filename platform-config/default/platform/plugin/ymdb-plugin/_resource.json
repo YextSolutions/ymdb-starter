@@ -1,0 +1,8 @@
+{
+  "$id": "ymdb-plugin",
+  "$schema": "https://schema.yext.com/config/platform/plugin/v1",
+  "globals": {
+    "MOVIE_DB_API_KEY": "2c0a82e05134f15842e0ac7e3e37d0ac",
+    "SLACK_WEBHOOK_URL": "https://hooks.slack.com/services/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"
+  }
+}

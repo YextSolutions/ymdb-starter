@@ -1,0 +1,40 @@
+{
+  "$id": "1253353",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Noah Gregory Centineo (born May 9, 1996) is an American actor. He began his career performing on television and had a main role in the television series The Fosters from 2015 to 2018. He achieved wider recognition by starring in the Netflix romantic comedy films To All the Boys I\u0027ve Loved Before (2018) and its sequels, Sierra Burgess Is a Loser (2018), and The Perfect Date (2019). In 2022, Centineo played Atom Smasher in the superhero film Black Adam. He is also a co\\-founder of the charity Favored Nations.",
+    "c_birthDate": "1996-05-09",
+    "c_birthPlace": "Miami, Florida, USA",
+    "c_movies": [
+      "436270"
+    ],
+    "headshot": {
+      "height": 750,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//p1bcst401RyxfDGykx2iQLI7CV5.jpg",
+      "thumbnails": [
+        {
+          "height": 750,
+          "url": "http://a.mktgcdn.com/p-sandbox/n9o49W6LeO0B439K3fbpssXFttvGoHWgocLOXP7NAHU/1.0000/750x750.jpg",
+          "width": 750
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/n9o49W6LeO0B439K3fbpssXFttvGoHWgocLOXP7NAHU/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/n9o49W6LeO0B439K3fbpssXFttvGoHWgocLOXP7NAHU/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/n9o49W6LeO0B439K3fbpssXFttvGoHWgocLOXP7NAHU/1.0000/750x750.jpg",
+      "width": 750
+    },
+    "name": "Noah Centineo",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}

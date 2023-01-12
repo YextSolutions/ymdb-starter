@@ -1,0 +1,40 @@
+{
+  "$id": "8691",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Zoe Yadira Saldaña\\-Perego (née Saldaña Nazario; born June 19, 1978) is an American actress. After performing with the theater group Faces she appeared in two 1999 episodes of Law \\\u0026 Order. Her film career began a year later with Center Stage (2000) in which she portrayed a ballet dancer. After receiving early recognition for her work opposite Britney Spears in the road film Crossroads (2001), Saldaña achieved her career breakthrough with her work in numerous science fiction films, beginning in 2009 with her first of multiple appearances as Nyota Uhura in the Star Trek film series and her first appearance as Neytiri in the Avatar film series. She portrays Gamora in the Marvel Cinematic Universe, beginning with Guardians of the Galaxy (2014). Saldaña appeared in three of the five highest\\-grossing films of all time (Avatar, Avengers: Infinity War, and Avengers: Endgame), a feat not achieved by any other actor. Her films grossed more than $11 billion worldwide, and she is the second\\-highest\\-grossing film actress of all time as of 2019. Description above from the Wikipedia article Zoe Saldaña, licensed under CC\\-BY\\-SA, full list of contributors on Wikipedia.",
+    "c_birthDate": "1978-06-19",
+    "c_birthPlace": "Passaic, New Jersey, USA",
+    "c_movies": [
+      "19995"
+    ],
+    "headshot": {
+      "height": 1600,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg",
+      "thumbnails": [
+        {
+          "height": 1600,
+          "url": "http://a.mktgcdn.com/p-sandbox/HS4cE_BBkiYYehHMBskbH6ge1EcDMUHgQZqgOefBT-M/1.0000/1600x1600.jpg",
+          "width": 1600
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/HS4cE_BBkiYYehHMBskbH6ge1EcDMUHgQZqgOefBT-M/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/HS4cE_BBkiYYehHMBskbH6ge1EcDMUHgQZqgOefBT-M/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/HS4cE_BBkiYYehHMBskbH6ge1EcDMUHgQZqgOefBT-M/1.0000/1600x1600.jpg",
+      "width": 1600
+    },
+    "name": "Zoe Saldaña",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}

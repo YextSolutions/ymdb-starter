@@ -1,0 +1,40 @@
+{
+  "$id": "25129",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Donnie Wayne Johnson (born December 15, 1949) is an American actor, producer, director, singer, and songwriter. He\u0027s most known for his role as Det. James \"Sonny\" Crockett in the 1980s television series Miami Vice, winning a Golden Globe for his work in the role. In 1984, after years of struggling to establish himself as a TV actor, Johnson landed a starring role as undercover police detective Sonny Crockett in the Michael Mann/Universal Television cop series, Miami Vice (1984\\-1990). Miami Vice made him \"a major international star\". According to Rolling Stone, \"No one had more swagger in the Reagan era than Don Johnson. Johnson\u0027s work on Miami Vice earned him a Golden Globe Award for Best Performance by an Actor In A Television Series \\- Drama, in 1986, and he was nominated for the same award in 1987. He was also nominated for an Emmy Award for Outstanding Lead Actor in a Drama Series in 1985. He reprised his in Miami Vice TV movies. Between seasons on Miami Vice, he gained further renown through TV miniseries such as the 1985 remake of The Long, Hot Summer. In 1996, he had a supporting role in Tin Cup, along with Kevin Costner, Rene Russo and Cheech Marin. Johnson received a star on the Hollywood Walk of Fame in 1996. Johnson later starred in the 1996–2001 CBS\\-TV police drama Nash Bridges with Cheech Marin, Jeff Perry, Jaime P. Gomez, Kelly Hu, Wendy Moniz, Annette O\u0027Toole, Jodi Lyn O\u0027Keefe as his daughter Cassidy, and James Gammon as his father Nick. In October 2010, he began appearing on the HBO series Eastbound \\\u0026 Down, playing Kenny Powers\u0027 long\\-lost father, going by the alias \"Eduardo Sanchez\". He also reprised his role as Sonny Crockett for a Nike commercial with LeBron James in which the NBA player contemplates acting and appears alongside Johnson on Miami Vice. Johnson had a supporting role in the 2012 Quentin Tarantino film Django Unchained, playing a southern plantation owner named Spencer \u0027Big Daddy\u0027 Bennett. In 2014, Johnson starred as the character \"Jim Bob\" opposite Sam Shepard and Michael C. Hall in Jim Mickle\u0027s critically acclaimed crime film, Cold in July. In 2014, he had a supporting role in the film The Other Woman as Cameron Diaz\u0027s character\u0027s father. In 2015, Johnson began starring in the ABC prime time soap opera Blood \\\u0026 Oil. In 2018, he starred as the character of Arthur, the love interest of Vivian, played by Jane Fonda in Bill Holderman\u0027s romantic\\-comedy Book Club. In 2019, Johnson played the role of Richard Drysdale in Rian Johnson\u0027s murder\\-mystery Knives Out; and starred as Police Chief Judd Crawford in the HBO series Watchmen. In 2021, Johnson co\\-starred on Kenan, until its cancellation in May 2022. He also appeared in a Nash Bridges television film, with co\\-star Cheech Marin, on the USA Network in 2021.",
+    "c_birthDate": "1949-12-15",
+    "c_birthPlace": "Flat Creek, Missouri, United States",
+    "c_movies": [
+      "1015963"
+    ],
+    "headshot": {
+      "height": 1184,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//6s6oav541p7xspCG6PvXut7knkP.jpg",
+      "thumbnails": [
+        {
+          "height": 1184,
+          "url": "http://a.mktgcdn.com/p-sandbox/AM3en3nD93VlKw36h0qHTmK6_CAOjIxuXEifCT3xKYw/1.0000/1184x1184.jpg",
+          "width": 1184
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/AM3en3nD93VlKw36h0qHTmK6_CAOjIxuXEifCT3xKYw/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/AM3en3nD93VlKw36h0qHTmK6_CAOjIxuXEifCT3xKYw/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/AM3en3nD93VlKw36h0qHTmK6_CAOjIxuXEifCT3xKYw/1.0000/1184x1184.jpg",
+      "width": 1184
+    },
+    "name": "Don Johnson",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}

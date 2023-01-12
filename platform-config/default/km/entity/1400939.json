@@ -1,0 +1,40 @@
+{
+  "$id": "1400939",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Actress Jacqueline Byers (born September 13, 1989) grew up outside of Toronto in Mississauga and received her B.A. in Acting from Queen\u0027s University in Ontario, Canada. On stage, she has performed in \"Here\" at Toronto Fringe Festival, \"Spelling Bee\" for Collective Productions, \"Chess\" at Theater Aquarius, and both \"Annie\" and \"Peter Pan\" at Oakville Centre for Performing Arts. Her first staring role was on Syfy\u0027s Ascension as Nora Bryce.",
+    "c_birthDate": "1996-09-13",
+    "c_birthPlace": "Toronto, Ontario, Canada",
+    "c_movies": [
+      "676547"
+    ],
+    "headshot": {
+      "height": 450,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//vgj4zlU5sqJ1EzRgUP3ikRwK4lW.jpg",
+      "thumbnails": [
+        {
+          "height": 450,
+          "url": "http://a.mktgcdn.com/p-sandbox/pbEXO7dR6HFnwnsX5tNhs2tFCjK1VU9GF_9-_qRGXgg/1.0000/450x450.jpg",
+          "width": 450
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/pbEXO7dR6HFnwnsX5tNhs2tFCjK1VU9GF_9-_qRGXgg/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/pbEXO7dR6HFnwnsX5tNhs2tFCjK1VU9GF_9-_qRGXgg/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/pbEXO7dR6HFnwnsX5tNhs2tFCjK1VU9GF_9-_qRGXgg/1.0000/450x450.jpg",
+      "width": 450
+    },
+    "name": "Jacqueline Byers",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}

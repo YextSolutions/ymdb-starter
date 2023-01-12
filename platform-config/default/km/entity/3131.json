@@ -1,0 +1,45 @@
+{
+  "$id": "3131",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "José Antonio Domínguez Bandera (born August 10, 1960), known professionally as Antonio Banderas, is a Spanish actor, producer, director, and singer. He began his acting career at age 19 with a series of films by director Pedro Almodóvar and then appeared in high\\-profile Hollywood films, especially in the 1990s, including Assassins, Evita, Interview with the Vampire, Philadelphia, Desperado, The Mask of Zorro, Spy Kids, the Shrek sequels and Puss in Boots.",
+    "c_birthDate": "1960-08-10",
+    "c_birthPlace": "Málaga, Andalucía, Spain",
+    "c_movies": [
+      "315162"
+    ],
+    "headshot": {
+      "height": 2117,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//oWjtA9u9VZlqCvAiEC7tG0UxLXM.jpg",
+      "thumbnails": [
+        {
+          "height": 2117,
+          "url": "http://a.mktgcdn.com/p-sandbox/lQ4_gmSVmt_l0L1cOvrS5oQRsP0veSNh8I9d5wj8Kc4/1.0000/2117x2117.jpg",
+          "width": 2117
+        },
+        {
+          "height": 1900,
+          "url": "http://a.mktgcdn.com/p-sandbox/lQ4_gmSVmt_l0L1cOvrS5oQRsP0veSNh8I9d5wj8Kc4/1.0000/1900x1900.jpg",
+          "width": 1900
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/lQ4_gmSVmt_l0L1cOvrS5oQRsP0veSNh8I9d5wj8Kc4/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/lQ4_gmSVmt_l0L1cOvrS5oQRsP0veSNh8I9d5wj8Kc4/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/lQ4_gmSVmt_l0L1cOvrS5oQRsP0veSNh8I9d5wj8Kc4/1.0000/2117x2117.jpg",
+      "width": 2117
+    },
+    "name": "Antonio Banderas",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}

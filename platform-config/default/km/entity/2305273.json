@@ -1,0 +1,39 @@
+{
+  "$id": "2305273",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_birthDate": "2004-04-22",
+    "c_birthPlace": "Sora, Frosinone, Lazio, Italy",
+    "c_movies": [
+      "873126"
+    ],
+    "headshot": {
+      "height": 600,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//hAMzWT1vRd684Wp9jTG2VTlk9bg.jpg",
+      "thumbnails": [
+        {
+          "height": 600,
+          "url": "http://a.mktgcdn.com/p-sandbox/NzVOjc7zF4_pHLguuSFNa4M1fUh7ycLLFvjT12pV6mI/1.0000/600x600.jpg",
+          "width": 600
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/NzVOjc7zF4_pHLguuSFNa4M1fUh7ycLLFvjT12pV6mI/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/NzVOjc7zF4_pHLguuSFNa4M1fUh7ycLLFvjT12pV6mI/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/NzVOjc7zF4_pHLguuSFNa4M1fUh7ycLLFvjT12pV6mI/1.0000/600x600.jpg",
+      "width": 600
+    },
+    "name": "Ginevra Francesconi",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}

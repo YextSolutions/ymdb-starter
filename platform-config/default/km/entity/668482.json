@@ -1,0 +1,92 @@
+{
+  "$id": "668482",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_actors": [
+      "2442117",
+      "7056"
+    ],
+    "c_backdropImage": {
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://image.tmdb.org/t/p/original/nWs0auTqn2UaFGfTKtUE5tlTeBu.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/OdLSL65HJJ5EJDsIs8m1jbAztr87ocYQdwehg7jwb7s/1920x1080.jpg",
+            "width": 1920
+          },
+          {
+            "height": 1069,
+            "url": "http://a.mktgcdn.com/p-sandbox/OdLSL65HJJ5EJDsIs8m1jbAztr87ocYQdwehg7jwb7s/1900x1069.jpg",
+            "width": 1900
+          },
+          {
+            "height": 348,
+            "url": "http://a.mktgcdn.com/p-sandbox/OdLSL65HJJ5EJDsIs8m1jbAztr87ocYQdwehg7jwb7s/619x348.jpg",
+            "width": 619
+          },
+          {
+            "height": 338,
+            "url": "http://a.mktgcdn.com/p-sandbox/OdLSL65HJJ5EJDsIs8m1jbAztr87ocYQdwehg7jwb7s/600x338.jpg",
+            "width": 600
+          },
+          {
+            "height": 110,
+            "url": "http://a.mktgcdn.com/p-sandbox/OdLSL65HJJ5EJDsIs8m1jbAztr87ocYQdwehg7jwb7s/196x110.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/OdLSL65HJJ5EJDsIs8m1jbAztr87ocYQdwehg7jwb7s/1920x1080.jpg",
+        "width": 1920
+      }
+    },
+    "c_genres": [
+      "Family",
+      "Comedy",
+      "Fantasy"
+    ],
+    "c_moviePoster": {
+      "image": {
+        "height": 3000,
+        "sourceUrl": "https://image.tmdb.org/t/p/original/ga8R3OiOMMgSvZ4cOj8x7prUNYZ.jpg",
+        "thumbnails": [
+          {
+            "height": 3000,
+            "url": "http://a.mktgcdn.com/p-sandbox/IPv1c99CP2Zh461tshVhxMgt_eTQ23eqa3KEz8cPvOg/2000x3000.jpg",
+            "width": 2000
+          },
+          {
+            "height": 1900,
+            "url": "http://a.mktgcdn.com/p-sandbox/IPv1c99CP2Zh461tshVhxMgt_eTQ23eqa3KEz8cPvOg/1267x1900.jpg",
+            "width": 1267
+          },
+          {
+            "height": 929,
+            "url": "http://a.mktgcdn.com/p-sandbox/IPv1c99CP2Zh461tshVhxMgt_eTQ23eqa3KEz8cPvOg/619x929.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/IPv1c99CP2Zh461tshVhxMgt_eTQ23eqa3KEz8cPvOg/300x450.jpg",
+            "width": 300
+          },
+          {
+            "height": 294,
+            "url": "http://a.mktgcdn.com/p-sandbox/IPv1c99CP2Zh461tshVhxMgt_eTQ23eqa3KEz8cPvOg/196x294.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/IPv1c99CP2Zh461tshVhxMgt_eTQ23eqa3KEz8cPvOg/2000x3000.jpg",
+        "width": 2000
+      }
+    },
+    "c_releaseDate": "2022-11-25",
+    "description": "An extraordinary young girl discovers her superpower and summons the remarkable courage, against all odds, to help others change their stories, whilst also taking charge of her own destiny. Standing up for what\u0027s right, she\u0027s met with miraculous results.",
+    "name": "Roald Dahl\u0027s Matilda the Musical",
+    "slug": "/movie/[[entityId]]"
+  },
+  "entityType": "ce_movie",
+  "labels": []
+}

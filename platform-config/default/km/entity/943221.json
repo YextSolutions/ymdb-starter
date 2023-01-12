@@ -1,0 +1,86 @@
+{
+  "$id": "943221",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_actors": [
+      "104982",
+      "1233729",
+      "1198776"
+    ],
+    "c_backdropImage": {
+      "image": {
+        "height": 2160,
+        "sourceUrl": "https://image.tmdb.org/t/p/original/xOcwcyLM2lqXCrZG8AIHC8DXElF.jpg",
+        "thumbnails": [
+          {
+            "height": 2160,
+            "url": "http://a.mktgcdn.com/p-sandbox/Hl-nZxgUq3X_zpupxJXVFdGx8cuhlbicLLV85-RKwsw/3840x2160.jpg",
+            "width": 3840
+          },
+          {
+            "height": 1069,
+            "url": "http://a.mktgcdn.com/p-sandbox/Hl-nZxgUq3X_zpupxJXVFdGx8cuhlbicLLV85-RKwsw/1900x1069.jpg",
+            "width": 1900
+          },
+          {
+            "height": 348,
+            "url": "http://a.mktgcdn.com/p-sandbox/Hl-nZxgUq3X_zpupxJXVFdGx8cuhlbicLLV85-RKwsw/619x348.jpg",
+            "width": 619
+          },
+          {
+            "height": 338,
+            "url": "http://a.mktgcdn.com/p-sandbox/Hl-nZxgUq3X_zpupxJXVFdGx8cuhlbicLLV85-RKwsw/600x338.jpg",
+            "width": 600
+          },
+          {
+            "height": 110,
+            "url": "http://a.mktgcdn.com/p-sandbox/Hl-nZxgUq3X_zpupxJXVFdGx8cuhlbicLLV85-RKwsw/196x110.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/Hl-nZxgUq3X_zpupxJXVFdGx8cuhlbicLLV85-RKwsw/3840x2160.jpg",
+        "width": 3840
+      }
+    },
+    "c_genres": [
+      "Horror"
+    ],
+    "c_moviePoster": {
+      "image": {
+        "height": 1276,
+        "sourceUrl": "https://image.tmdb.org/t/p/original/sChhX2wWgVbTd6j38ADrAfHd4mE.jpg",
+        "thumbnails": [
+          {
+            "height": 1276,
+            "url": "http://a.mktgcdn.com/p-sandbox/bmENbuzKpDKwM7YW0-i60nl7B4TGcMbcHmJDAg2ELts/892x1276.jpg",
+            "width": 892
+          },
+          {
+            "height": 885,
+            "url": "http://a.mktgcdn.com/p-sandbox/bmENbuzKpDKwM7YW0-i60nl7B4TGcMbcHmJDAg2ELts/619x885.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/bmENbuzKpDKwM7YW0-i60nl7B4TGcMbcHmJDAg2ELts/315x450.jpg",
+            "width": 315
+          },
+          {
+            "height": 280,
+            "url": "http://a.mktgcdn.com/p-sandbox/bmENbuzKpDKwM7YW0-i60nl7B4TGcMbcHmJDAg2ELts/196x280.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/bmENbuzKpDKwM7YW0-i60nl7B4TGcMbcHmJDAg2ELts/892x1276.jpg",
+        "width": 892
+      }
+    },
+    "c_releaseDate": "2022-09-22",
+    "description": "Nala, a thirteen-year-old girl from the city, travels with her family to her grandmother\u0027s home in the countryside, to try to find a cure for her little sister\u0027s mysterious illness - But she\u0027ll soon find her granny is not exactly what she seems...",
+    "name": "Mal de ojo",
+    "slug": "/movie/[[entityId]]"
+  },
+  "entityType": "ce_movie",
+  "labels": []
+}

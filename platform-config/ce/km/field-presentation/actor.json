@@ -1,0 +1,66 @@
+{
+  "$id": "ce_actor",
+  "$schema": "https://schema.yext.com/config/km/field-presentation/v1",
+  "entityType": "ce_actor",
+  "displayName": "Actor",
+  "presentationEntries": [
+    {
+      "displayName": "Content",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Core Information",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "name",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "entityId",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "headshot",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "c_birthDate",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "c_birthPlace",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "c_bio",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "slug",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "c_movies",
+          "visibleOnAdd": true
+        }
+      ]
+    },
+    {
+      "displayName": "Other",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Internal Use Only",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "folder"
+        },
+        {
+          "id": "labels"
+        }
+      ]
+    }
+  ]
+}

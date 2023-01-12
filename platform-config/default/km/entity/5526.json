@@ -1,0 +1,40 @@
+{
+  "$id": "5526",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Georgina Helen \"Georgie\" Henley (born 9 July 1995) is an English actress. She is known for her portrayal of Lucy Pevensie in The Chronicles of Narnia film series, for which she won the Phoenix Film Critics Society Award for Best Performance by a Youth Female in a Lead or Supporting Role in The Lion, the Witch and the Wardrobe in 2005. Description above from the Wikipedia article Georgie Henley, licensed under CC\\-BY\\-SA, full list of contributors on Wikipedia.",
+    "c_birthDate": "1995-07-09",
+    "c_birthPlace": "Ilkley, West Yorkshire, England, UK",
+    "c_movies": [
+      "411"
+    ],
+    "headshot": {
+      "height": 1460,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//3G12GqaRzx4ovHYMELUAGwChOCx.jpg",
+      "thumbnails": [
+        {
+          "height": 1460,
+          "url": "http://a.mktgcdn.com/p-sandbox/Sou_4c6HbWT4OuyfzA1KbzV1JtsZtti9ea5vx5PbhHo/1.0000/1460x1460.jpg",
+          "width": 1460
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/Sou_4c6HbWT4OuyfzA1KbzV1JtsZtti9ea5vx5PbhHo/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/Sou_4c6HbWT4OuyfzA1KbzV1JtsZtti9ea5vx5PbhHo/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/Sou_4c6HbWT4OuyfzA1KbzV1JtsZtti9ea5vx5PbhHo/1.0000/1460x1460.jpg",
+      "width": 1460
+    },
+    "name": "Georgie Henley",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}

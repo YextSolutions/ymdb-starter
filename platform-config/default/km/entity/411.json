@@ -1,0 +1,88 @@
+{
+  "$id": "411",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_actors": [
+      "5527",
+      "5526",
+      "5528"
+    ],
+    "c_backdropImage": {
+      "image": {
+        "height": 2160,
+        "sourceUrl": "https://image.tmdb.org/t/p/original/AuV99eQivVWuk2AOSM6hYh9QRPQ.jpg",
+        "thumbnails": [
+          {
+            "height": 2160,
+            "url": "http://a.mktgcdn.com/p-sandbox/LMysi8lTJCNhVQxKgNbWIfHv1ZJ2MKDmTgb2NTeTv8U/3840x2160.jpg",
+            "width": 3840
+          },
+          {
+            "height": 1069,
+            "url": "http://a.mktgcdn.com/p-sandbox/LMysi8lTJCNhVQxKgNbWIfHv1ZJ2MKDmTgb2NTeTv8U/1900x1069.jpg",
+            "width": 1900
+          },
+          {
+            "height": 348,
+            "url": "http://a.mktgcdn.com/p-sandbox/LMysi8lTJCNhVQxKgNbWIfHv1ZJ2MKDmTgb2NTeTv8U/619x348.jpg",
+            "width": 619
+          },
+          {
+            "height": 338,
+            "url": "http://a.mktgcdn.com/p-sandbox/LMysi8lTJCNhVQxKgNbWIfHv1ZJ2MKDmTgb2NTeTv8U/600x338.jpg",
+            "width": 600
+          },
+          {
+            "height": 110,
+            "url": "http://a.mktgcdn.com/p-sandbox/LMysi8lTJCNhVQxKgNbWIfHv1ZJ2MKDmTgb2NTeTv8U/196x110.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/LMysi8lTJCNhVQxKgNbWIfHv1ZJ2MKDmTgb2NTeTv8U/3840x2160.jpg",
+        "width": 3840
+      }
+    },
+    "c_genres": [
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ],
+    "c_moviePoster": {
+      "image": {
+        "height": 1500,
+        "sourceUrl": "https://image.tmdb.org/t/p/original/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg",
+        "thumbnails": [
+          {
+            "height": 1500,
+            "url": "http://a.mktgcdn.com/p-sandbox/HBdoX3EFkxDnGlrd-mpErhwBK3PLDk7ihSfs0xf_5b4/1000x1500.jpg",
+            "width": 1000
+          },
+          {
+            "height": 929,
+            "url": "http://a.mktgcdn.com/p-sandbox/HBdoX3EFkxDnGlrd-mpErhwBK3PLDk7ihSfs0xf_5b4/619x929.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/HBdoX3EFkxDnGlrd-mpErhwBK3PLDk7ihSfs0xf_5b4/300x450.jpg",
+            "width": 300
+          },
+          {
+            "height": 294,
+            "url": "http://a.mktgcdn.com/p-sandbox/HBdoX3EFkxDnGlrd-mpErhwBK3PLDk7ihSfs0xf_5b4/196x294.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/HBdoX3EFkxDnGlrd-mpErhwBK3PLDk7ihSfs0xf_5b4/1000x1500.jpg",
+        "width": 1000
+      }
+    },
+    "c_releaseDate": "2005-12-07",
+    "description": "Siblings Lucy, Edmund, Susan and Peter step through a magical wardrobe and find the land of Narnia. There, they discover a charming, once peaceful kingdom that has been plunged into eternal winter by the evil White Witch, Jadis. Aided by the wise and magnificent lion, Aslan, the children lead Narnia into a spectacular, climactic battle to be free of the Witch\u0027s glacial powers forever.",
+    "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "slug": "/movie/[[entityId]]"
+  },
+  "entityType": "ce_movie",
+  "labels": []
+}

@@ -1,0 +1,93 @@
+{
+  "$id": "1015963",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_actors": [
+      "25129",
+      "1217648",
+      "18182"
+    ],
+    "c_backdropImage": {
+      "image": {
+        "height": 2160,
+        "sourceUrl": "https://image.tmdb.org/t/p/original/mYQSbZdGX0JJb49NLO04UA0iFEU.jpg",
+        "thumbnails": [
+          {
+            "height": 2160,
+            "url": "http://a.mktgcdn.com/p-sandbox/rUfad8zKbQRTpKq4bUr026-jI-NjTg28aU_esldY04Q/3840x2160.jpg",
+            "width": 3840
+          },
+          {
+            "height": 1069,
+            "url": "http://a.mktgcdn.com/p-sandbox/rUfad8zKbQRTpKq4bUr026-jI-NjTg28aU_esldY04Q/1900x1069.jpg",
+            "width": 1900
+          },
+          {
+            "height": 348,
+            "url": "http://a.mktgcdn.com/p-sandbox/rUfad8zKbQRTpKq4bUr026-jI-NjTg28aU_esldY04Q/619x348.jpg",
+            "width": 619
+          },
+          {
+            "height": 338,
+            "url": "http://a.mktgcdn.com/p-sandbox/rUfad8zKbQRTpKq4bUr026-jI-NjTg28aU_esldY04Q/600x338.jpg",
+            "width": 600
+          },
+          {
+            "height": 110,
+            "url": "http://a.mktgcdn.com/p-sandbox/rUfad8zKbQRTpKq4bUr026-jI-NjTg28aU_esldY04Q/196x110.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/rUfad8zKbQRTpKq4bUr026-jI-NjTg28aU_esldY04Q/3840x2160.jpg",
+        "width": 3840
+      }
+    },
+    "c_genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "c_moviePoster": {
+      "image": {
+        "height": 3000,
+        "sourceUrl": "https://image.tmdb.org/t/p/original/mmD0NVdhiRiCu64YKem5GK5PSfy.jpg",
+        "thumbnails": [
+          {
+            "height": 3000,
+            "url": "http://a.mktgcdn.com/p-sandbox/p9nhTNCOtteYsXsUwghwXLxTNSdtnfOkB-SpgmlTRDQ/2000x3000.jpg",
+            "width": 2000
+          },
+          {
+            "height": 1900,
+            "url": "http://a.mktgcdn.com/p-sandbox/p9nhTNCOtteYsXsUwghwXLxTNSdtnfOkB-SpgmlTRDQ/1267x1900.jpg",
+            "width": 1267
+          },
+          {
+            "height": 929,
+            "url": "http://a.mktgcdn.com/p-sandbox/p9nhTNCOtteYsXsUwghwXLxTNSdtnfOkB-SpgmlTRDQ/619x929.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/p9nhTNCOtteYsXsUwghwXLxTNSdtnfOkB-SpgmlTRDQ/300x450.jpg",
+            "width": 300
+          },
+          {
+            "height": 294,
+            "url": "http://a.mktgcdn.com/p-sandbox/p9nhTNCOtteYsXsUwghwXLxTNSdtnfOkB-SpgmlTRDQ/196x294.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/p9nhTNCOtteYsXsUwghwXLxTNSdtnfOkB-SpgmlTRDQ/2000x3000.jpg",
+        "width": 2000
+      }
+    },
+    "c_releaseDate": "2022-12-16",
+    "description": "When the local mafia shows up to burn down her restaurant, Ana, a chef with a meticulous past, defends her turf and proves her knife skills both in and out of the kitchen.",
+    "name": "High Heat",
+    "slug": "/movie/[[entityId]]"
+  },
+  "entityType": "ce_movie",
+  "labels": []
+}

@@ -1,0 +1,45 @@
+{
+  "$id": "131",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Jacob Benjamin Gyllenhaal (born December 19, 1980) is an American actor and producer. Born into the Gyllenhaal family, he is the son of director Stephen Gyllenhaal and screenwriter Naomi Foner; his older sister is actress Maggie Gyllenhaal. He began acting as a child, making his acting debut in City Slickers (1991), followed by roles in his father\u0027s films A Dangerous Woman (1993) and Homegrown (1998). His breakthrough roles were as Homer Hickam in October Sky (1999) and as a psychologically troubled teenager in Donnie Darko (2001). In 2004, Gyllenhaal starred in the science fiction disaster film The Day After Tomorrow. In 2005, he played Jack Twist in Ang Lee\u0027s romantic drama Brokeback Mountain, for which Gyllenhaal won a BAFTA Award and was nominated for an Academy Award. His career progressed with starring roles in the thriller Zodiac (2007), the romantic comedy Love \\\u0026 Other Drugs (2010), and the science fiction film Source Code (2011). Further acclaim came with his roles in Denis Villeneuve\u0027s thrillers Prisoners (2013) and Enemy (2013), and he received nominations for the BAFTA Award for Best Actor in a Leading Role for his performances as a manipulative journalist in Nightcrawler (2014) and a troubled writer in Nocturnal Animals (2016). His highest\\-grossing release came with the Marvel Cinematic Universe superhero film Spider\\-Man: Far From Home (2019), in which he portrayed Quentin Beck / Mysterio. Gyllenhaal has also performed on stage, starring in Broadway productions of the musical Sunday in the Park with George as well as the plays Constellations and Sea Wall/A Life, the lattermost of which earned him a Tony Award nomination. Aside from acting, he is vocal about political and social issues. Description above from the Wikipedia article Jake Gyllenhaal, licensed under CC\\-BY\\-SA, full list of contributors on Wikipedia.",
+    "c_birthDate": "1980-12-19",
+    "c_birthPlace": "Los Angeles, California, USA",
+    "c_movies": [
+      "877269"
+    ],
+    "headshot": {
+      "height": 2587,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//rJdYHYNhlcOBwbPvDZVvt1xw7bi.jpg",
+      "thumbnails": [
+        {
+          "height": 2587,
+          "url": "http://a.mktgcdn.com/p-sandbox/S4OUI1qtYZetKeNacrL1Q8TghXh_anE4Z0nBdrN5AAI/1.0000/2587x2587.jpg",
+          "width": 2587
+        },
+        {
+          "height": 1900,
+          "url": "http://a.mktgcdn.com/p-sandbox/S4OUI1qtYZetKeNacrL1Q8TghXh_anE4Z0nBdrN5AAI/1.0000/1900x1900.jpg",
+          "width": 1900
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/S4OUI1qtYZetKeNacrL1Q8TghXh_anE4Z0nBdrN5AAI/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/S4OUI1qtYZetKeNacrL1Q8TghXh_anE4Z0nBdrN5AAI/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/S4OUI1qtYZetKeNacrL1Q8TghXh_anE4Z0nBdrN5AAI/1.0000/2587x2587.jpg",
+      "width": 2587
+    },
+    "name": "Jake Gyllenhaal",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}

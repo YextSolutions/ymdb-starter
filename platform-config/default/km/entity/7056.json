@@ -1,0 +1,40 @@
+{
+  "$id": "7056",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Dame Emma Thompson DBE is a British actress and screenwriter. Described as one of the best actresses of her generation, she portrays reticent women in period dramas and literary adaptations. She has received various accolades throughout her career spanning four decades, including two Academy Awards, two British Academy Film Awards, two Golden Globe Awards, a British Academy Television Award, and a Primetime Emmy Award. Born in London to English actor Eric Thompson and Scottish actress Phyllida Law, Thompson was educated at Newnham College, University of Cambridge, where she became a member of the Footlights troupe, and appeared in the comedy sketch series Alfresco (1983–1984). In 1985, she starred in the West End revival of the musical Me and My Girl, which was a breakthrough in her career. In 1987, she came to prominence for her performances in two BBC TV series, Tutti Frutti and Fortunes of War, winning the BAFTA TV Award for Best Actress for her work in both series. In the early 1990s, she often collaborated with then\\-husband, actor and director Kenneth Branagh, in films such as Henry V (1989), Dead Again (1991), and Much Ado About Nothing (1993). For her performance in Howards End (1992), Thompson won the BAFTA Award and the Academy Award for Best Actress. In 1993, she received two simultaneous Academy Award nominations—Best Actress and Best Supporting Actress—for the respective roles of the housekeeper of a grand household in The Remains of the Day and a lawyer in In the Name of the Father, becoming one of the few actors to achieve this feat. Thompson wrote and starred in Sense and Sensibility (1995), for which she won the Academy Award for Best Adapted Screenplay—which makes her the only person in history to win Academy Awards for both acting and writing—and once again won the BAFTA Award. Other notable film credits include the Harry Potter film series (2004–2011) as Professor Sybil Trelawney, Junior (1994), Primary Colors (1998), Love Actually (2003), Nanny McPhee (2005) and it\u0027s sequel Nanny McPhee Returns (2010), Stranger than Fiction (2006), Last Chance Harvey (2008), An Education (2009), Men in Black 3 (2012) and the spin\\-off Men in Black: International (2019), Beautiful Creatures (2013), Saving Mr. Banks (2013), Bridget Jones\u0027s Baby (2016), the live\\-action version of Beauty and the Beast (2017) as Mrs. Potts, Late Night (2019), Last Christmas (2019), Cruella (2021), Good Luck to You, Leo Grande (2022), and What\u0027s Love Got to Do With It? (2022). Her voice roles include Captain Amelia in Treasure Planet (2002), Elinor in Brave (2012), Dori the Yeti Elder in Missing Link (2019), and Poly in Dolittle (2020). Her television credits include Wit (2001), Angels in America (2003), The Song of Lunch (2010), King Lear (2018) and Years and Years (2019).",
+    "c_birthDate": "1959-04-15",
+    "c_birthPlace": "Paddington, London, England, UK",
+    "c_movies": [
+      "668482"
+    ],
+    "headshot": {
+      "height": 776,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//zQ0hWHh3tzaOOziPbABQI8s9WCu.jpg",
+      "thumbnails": [
+        {
+          "height": 776,
+          "url": "http://a.mktgcdn.com/p-sandbox/80DJJQYve5a2MCOor4prm9gZbi_-x6Z99sMUBQvx1eM/1.0000/776x776.jpg",
+          "width": 776
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/80DJJQYve5a2MCOor4prm9gZbi_-x6Z99sMUBQvx1eM/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/80DJJQYve5a2MCOor4prm9gZbi_-x6Z99sMUBQvx1eM/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/80DJJQYve5a2MCOor4prm9gZbi_-x6Z99sMUBQvx1eM/1.0000/776x776.jpg",
+      "width": 776
+    },
+    "name": "Emma Thompson",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}

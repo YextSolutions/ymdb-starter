@@ -1,0 +1,45 @@
+{
+  "$id": "5414",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Colin Salmon (born 6 December 1962) is a British actor best known for playing the fictional character Charles Robinson in three James Bond films.",
+    "c_birthDate": "1962-12-06",
+    "c_birthPlace": "Bethnal Green, London, England, UK",
+    "c_movies": [
+      "676547"
+    ],
+    "headshot": {
+      "height": 3000,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//mLlAU6Zl2MIL5znp5UHdX3sVTN7.jpg",
+      "thumbnails": [
+        {
+          "height": 3000,
+          "url": "http://a.mktgcdn.com/p-sandbox/zFvYlSnCd5HFp1p_5qOG2_GH2y9ysZQXevZcKSaciCc/1.0000/3000x3000.jpg",
+          "width": 3000
+        },
+        {
+          "height": 1900,
+          "url": "http://a.mktgcdn.com/p-sandbox/zFvYlSnCd5HFp1p_5qOG2_GH2y9ysZQXevZcKSaciCc/1.0000/1900x1900.jpg",
+          "width": 1900
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/zFvYlSnCd5HFp1p_5qOG2_GH2y9ysZQXevZcKSaciCc/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/zFvYlSnCd5HFp1p_5qOG2_GH2y9ysZQXevZcKSaciCc/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/zFvYlSnCd5HFp1p_5qOG2_GH2y9ysZQXevZcKSaciCc/1.0000/3000x3000.jpg",
+      "width": 3000
+    },
+    "name": "Colin Salmon",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}

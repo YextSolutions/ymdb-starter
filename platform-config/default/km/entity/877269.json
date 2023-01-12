@@ -1,0 +1,94 @@
+{
+  "$id": "877269",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_actors": [
+      "131",
+      "6065",
+      "1998733"
+    ],
+    "c_backdropImage": {
+      "image": {
+        "height": 2160,
+        "sourceUrl": "https://image.tmdb.org/t/p/original/5wDBVictj4wUYZ31gR5WzCM9dLD.jpg",
+        "thumbnails": [
+          {
+            "height": 2160,
+            "url": "http://a.mktgcdn.com/p-sandbox/NVLKUgrl8p_g24k6kYjXefcUPxqmAs_QbVj8YtXTaDE/3840x2160.jpg",
+            "width": 3840
+          },
+          {
+            "height": 1069,
+            "url": "http://a.mktgcdn.com/p-sandbox/NVLKUgrl8p_g24k6kYjXefcUPxqmAs_QbVj8YtXTaDE/1900x1069.jpg",
+            "width": 1900
+          },
+          {
+            "height": 348,
+            "url": "http://a.mktgcdn.com/p-sandbox/NVLKUgrl8p_g24k6kYjXefcUPxqmAs_QbVj8YtXTaDE/619x348.jpg",
+            "width": 619
+          },
+          {
+            "height": 338,
+            "url": "http://a.mktgcdn.com/p-sandbox/NVLKUgrl8p_g24k6kYjXefcUPxqmAs_QbVj8YtXTaDE/600x338.jpg",
+            "width": 600
+          },
+          {
+            "height": 110,
+            "url": "http://a.mktgcdn.com/p-sandbox/NVLKUgrl8p_g24k6kYjXefcUPxqmAs_QbVj8YtXTaDE/196x110.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/NVLKUgrl8p_g24k6kYjXefcUPxqmAs_QbVj8YtXTaDE/3840x2160.jpg",
+        "width": 3840
+      }
+    },
+    "c_genres": [
+      "Animation",
+      "Science Fiction",
+      "Adventure",
+      "Family"
+    ],
+    "c_moviePoster": {
+      "image": {
+        "height": 3000,
+        "sourceUrl": "https://image.tmdb.org/t/p/original/fHMqfsYyl3lskPK2RiFRwhzwuep.jpg",
+        "thumbnails": [
+          {
+            "height": 3000,
+            "url": "http://a.mktgcdn.com/p-sandbox/kKLdv0K58yAY2wzodYGLkHcuYq1inc7cYq1ddsS42eU/2000x3000.jpg",
+            "width": 2000
+          },
+          {
+            "height": 1900,
+            "url": "http://a.mktgcdn.com/p-sandbox/kKLdv0K58yAY2wzodYGLkHcuYq1inc7cYq1ddsS42eU/1267x1900.jpg",
+            "width": 1267
+          },
+          {
+            "height": 929,
+            "url": "http://a.mktgcdn.com/p-sandbox/kKLdv0K58yAY2wzodYGLkHcuYq1inc7cYq1ddsS42eU/619x929.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/kKLdv0K58yAY2wzodYGLkHcuYq1inc7cYq1ddsS42eU/300x450.jpg",
+            "width": 300
+          },
+          {
+            "height": 294,
+            "url": "http://a.mktgcdn.com/p-sandbox/kKLdv0K58yAY2wzodYGLkHcuYq1inc7cYq1ddsS42eU/196x294.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/kKLdv0K58yAY2wzodYGLkHcuYq1inc7cYq1ddsS42eU/2000x3000.jpg",
+        "width": 2000
+      }
+    },
+    "c_releaseDate": "2022-11-23",
+    "description": "A journey deep into an uncharted and treacherous land, where fantastical creatures await the legendary Clades—a family of explorers whose differences threaten to topple their latest, and by far most crucial, mission.",
+    "name": "Strange World",
+    "slug": "/movie/[[entityId]]"
+  },
+  "entityType": "ce_movie",
+  "labels": []
+}

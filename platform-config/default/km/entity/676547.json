@@ -1,0 +1,92 @@
+{
+  "$id": "676547",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_actors": [
+      "1400939",
+      "5414",
+      "1237405"
+    ],
+    "c_backdropImage": {
+      "image": {
+        "height": 2160,
+        "sourceUrl": "https://image.tmdb.org/t/p/original/7dm64SW5L5CCg47kAEAcdCGaq5i.jpg",
+        "thumbnails": [
+          {
+            "height": 2160,
+            "url": "http://a.mktgcdn.com/p-sandbox/HOqZqAy71Q5Rby7IHaa1LmNGTcjGsp-Fu1q5iFCc4Ds/3840x2160.jpg",
+            "width": 3840
+          },
+          {
+            "height": 1069,
+            "url": "http://a.mktgcdn.com/p-sandbox/HOqZqAy71Q5Rby7IHaa1LmNGTcjGsp-Fu1q5iFCc4Ds/1900x1069.jpg",
+            "width": 1900
+          },
+          {
+            "height": 348,
+            "url": "http://a.mktgcdn.com/p-sandbox/HOqZqAy71Q5Rby7IHaa1LmNGTcjGsp-Fu1q5iFCc4Ds/619x348.jpg",
+            "width": 619
+          },
+          {
+            "height": 338,
+            "url": "http://a.mktgcdn.com/p-sandbox/HOqZqAy71Q5Rby7IHaa1LmNGTcjGsp-Fu1q5iFCc4Ds/600x338.jpg",
+            "width": 600
+          },
+          {
+            "height": 110,
+            "url": "http://a.mktgcdn.com/p-sandbox/HOqZqAy71Q5Rby7IHaa1LmNGTcjGsp-Fu1q5iFCc4Ds/196x110.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/HOqZqAy71Q5Rby7IHaa1LmNGTcjGsp-Fu1q5iFCc4Ds/3840x2160.jpg",
+        "width": 3840
+      }
+    },
+    "c_genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "c_moviePoster": {
+      "image": {
+        "height": 3000,
+        "sourceUrl": "https://image.tmdb.org/t/p/original/w3s6XEDNVGq5LUlghqs6VlvsvL6.jpg",
+        "thumbnails": [
+          {
+            "height": 3000,
+            "url": "http://a.mktgcdn.com/p-sandbox/nNGvj62qaRlp9l9yVjYG1-iiQltNZEU6-z8Aru6xH9M/2000x3000.jpg",
+            "width": 2000
+          },
+          {
+            "height": 1900,
+            "url": "http://a.mktgcdn.com/p-sandbox/nNGvj62qaRlp9l9yVjYG1-iiQltNZEU6-z8Aru6xH9M/1267x1900.jpg",
+            "width": 1267
+          },
+          {
+            "height": 929,
+            "url": "http://a.mktgcdn.com/p-sandbox/nNGvj62qaRlp9l9yVjYG1-iiQltNZEU6-z8Aru6xH9M/619x929.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/nNGvj62qaRlp9l9yVjYG1-iiQltNZEU6-z8Aru6xH9M/300x450.jpg",
+            "width": 300
+          },
+          {
+            "height": 294,
+            "url": "http://a.mktgcdn.com/p-sandbox/nNGvj62qaRlp9l9yVjYG1-iiQltNZEU6-z8Aru6xH9M/196x294.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/nNGvj62qaRlp9l9yVjYG1-iiQltNZEU6-z8Aru6xH9M/2000x3000.jpg",
+        "width": 2000
+      }
+    },
+    "c_releaseDate": "2022-10-23",
+    "description": "In response to a global rise in demonic possessions, the Catholic Church reopens exorcism schools to train priests in the Rite of Exorcism. On this spiritual battlefield, an unlikely warrior rises: a young nun, Sister Ann. Thrust onto the spiritual frontline with fellow student Father Dante, Sister Ann finds herself in a battle for the soul of a young girl and soon realizes the Devil has her right where he wants her.",
+    "name": "Prey for the Devil",
+    "slug": "/movie/[[entityId]]"
+  },
+  "entityType": "ce_movie",
+  "labels": []
+}

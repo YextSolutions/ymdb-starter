@@ -1,0 +1,39 @@
+{
+  "$id": "2131391",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Violet McGraw is an American child actress. Born on April 22, 2011 in California, she is best known for appearing in television series such as The Haunting of Hill House (2018) and Jett (2019), as well as films such as Doctor Sleep (2019), Black Widow (2021), and M3GAN (2023).",
+    "c_birthDate": "2011-04-22",
+    "c_movies": [
+      "536554"
+    ],
+    "headshot": {
+      "height": 1301,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//ymLn1LhODokVzOMsovXWeA2OtLK.jpg",
+      "thumbnails": [
+        {
+          "height": 1301,
+          "url": "http://a.mktgcdn.com/p-sandbox/XdCsa8ZIRTyLRAAWFURcW8-V9G_0ESCgzT7uJMso91A/1.0000/1301x1301.jpg",
+          "width": 1301
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/XdCsa8ZIRTyLRAAWFURcW8-V9G_0ESCgzT7uJMso91A/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/XdCsa8ZIRTyLRAAWFURcW8-V9G_0ESCgzT7uJMso91A/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/XdCsa8ZIRTyLRAAWFURcW8-V9G_0ESCgzT7uJMso91A/1.0000/1301x1301.jpg",
+      "width": 1301
+    },
+    "name": "Violet McGraw",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}

@@ -1,0 +1,45 @@
+{
+  "$id": "117525",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Beau Mirchoff (born January 13, 1989) is an American Canadian actor.",
+    "c_birthDate": "1989-01-13",
+    "c_birthPlace": "Seattle, Washington, USA",
+    "c_movies": [
+      "1024546"
+    ],
+    "headshot": {
+      "height": 2100,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//k6PpzPMgtU6VLb75sVqsJ4vv44K.jpg",
+      "thumbnails": [
+        {
+          "height": 2100,
+          "url": "http://a.mktgcdn.com/p-sandbox/BxfkEYIIm_rZz3O0pktlYeQC1BRWLUH1ejf5avFycU0/1.0000/2100x2100.jpg",
+          "width": 2100
+        },
+        {
+          "height": 1900,
+          "url": "http://a.mktgcdn.com/p-sandbox/BxfkEYIIm_rZz3O0pktlYeQC1BRWLUH1ejf5avFycU0/1.0000/1900x1900.jpg",
+          "width": 1900
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/BxfkEYIIm_rZz3O0pktlYeQC1BRWLUH1ejf5avFycU0/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/BxfkEYIIm_rZz3O0pktlYeQC1BRWLUH1ejf5avFycU0/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/BxfkEYIIm_rZz3O0pktlYeQC1BRWLUH1ejf5avFycU0/1.0000/2100x2100.jpg",
+      "width": 2100
+    },
+    "name": "Beau Mirchoff",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}

@@ -1,0 +1,88 @@
+{
+  "$id": "683328",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_actors": [
+      "1203378",
+      "1891479",
+      "1916568"
+    ],
+    "c_backdropImage": {
+      "image": {
+        "height": 1152,
+        "sourceUrl": "https://image.tmdb.org/t/p/original/ecaB1LUoQE1ylZJVF5KLRTkewt8.jpg",
+        "thumbnails": [
+          {
+            "height": 1152,
+            "url": "http://a.mktgcdn.com/p-sandbox/R8hhOWjUgIjwW2njGy1fxfvZURGa41kQ3uLoez8oWio/2048x1152.jpg",
+            "width": 2048
+          },
+          {
+            "height": 1069,
+            "url": "http://a.mktgcdn.com/p-sandbox/R8hhOWjUgIjwW2njGy1fxfvZURGa41kQ3uLoez8oWio/1900x1069.jpg",
+            "width": 1900
+          },
+          {
+            "height": 348,
+            "url": "http://a.mktgcdn.com/p-sandbox/R8hhOWjUgIjwW2njGy1fxfvZURGa41kQ3uLoez8oWio/619x348.jpg",
+            "width": 619
+          },
+          {
+            "height": 338,
+            "url": "http://a.mktgcdn.com/p-sandbox/R8hhOWjUgIjwW2njGy1fxfvZURGa41kQ3uLoez8oWio/600x338.jpg",
+            "width": 600
+          },
+          {
+            "height": 110,
+            "url": "http://a.mktgcdn.com/p-sandbox/R8hhOWjUgIjwW2njGy1fxfvZURGa41kQ3uLoez8oWio/196x110.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/R8hhOWjUgIjwW2njGy1fxfvZURGa41kQ3uLoez8oWio/2048x1152.jpg",
+        "width": 2048
+      }
+    },
+    "c_genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "c_moviePoster": {
+      "image": {
+        "height": 1435,
+        "sourceUrl": "https://image.tmdb.org/t/p/original/jrw684BhFJZ9Jac6KJda3hSQkxt.jpg",
+        "thumbnails": [
+          {
+            "height": 1435,
+            "url": "http://a.mktgcdn.com/p-sandbox/jTw-_hLuXMxDtxJKlSx8kkH_T1lS1-U-BkfbENH-ATc/1000x1435.jpg",
+            "width": 1000
+          },
+          {
+            "height": 888,
+            "url": "http://a.mktgcdn.com/p-sandbox/jTw-_hLuXMxDtxJKlSx8kkH_T1lS1-U-BkfbENH-ATc/619x888.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/jTw-_hLuXMxDtxJKlSx8kkH_T1lS1-U-BkfbENH-ATc/314x450.jpg",
+            "width": 314
+          },
+          {
+            "height": 281,
+            "url": "http://a.mktgcdn.com/p-sandbox/jTw-_hLuXMxDtxJKlSx8kkH_T1lS1-U-BkfbENH-ATc/196x281.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/jTw-_hLuXMxDtxJKlSx8kkH_T1lS1-U-BkfbENH-ATc/1000x1435.jpg",
+        "width": 1000
+      }
+    },
+    "c_releaseDate": "2022-12-19",
+    "description": "A by-the-book female detective teams up with four down-on-their-luck assassins to investigate her father\u0027s murder.",
+    "name": "The Big 4",
+    "slug": "/movie/[[entityId]]"
+  },
+  "entityType": "ce_movie",
+  "labels": []
+}

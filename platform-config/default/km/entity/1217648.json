@@ -1,0 +1,45 @@
+{
+  "$id": "1217648",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Chris grew up splitting his time between Greece and Canada. At age 9, he started doing TV commercials and professional theater. He left home at 18 to perform in a series of US national tours after which, he landed on Broadway. Chris now splits his time between New York and Los Angeles acting in TV and Film. Also an established voice\\-over artist, he can be heard on numerous national campaigns and networks.",
+    "c_birthDate": "1975-05-09",
+    "c_birthPlace": "Toronto, Ontario,  Canada",
+    "c_movies": [
+      "1015963"
+    ],
+    "headshot": {
+      "height": 2004,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//rCp2ZVOFnQt2vvVn4QmOOPz5WVh.jpg",
+      "thumbnails": [
+        {
+          "height": 2004,
+          "url": "http://a.mktgcdn.com/p-sandbox/H9_NgPneAFVhUekAFttiroBYZa0S0wnPWp6KHPNwkM4/1.0000/2004x2004.jpg",
+          "width": 2004
+        },
+        {
+          "height": 1900,
+          "url": "http://a.mktgcdn.com/p-sandbox/H9_NgPneAFVhUekAFttiroBYZa0S0wnPWp6KHPNwkM4/1.0000/1900x1900.jpg",
+          "width": 1900
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/H9_NgPneAFVhUekAFttiroBYZa0S0wnPWp6KHPNwkM4/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/H9_NgPneAFVhUekAFttiroBYZa0S0wnPWp6KHPNwkM4/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/H9_NgPneAFVhUekAFttiroBYZa0S0wnPWp6KHPNwkM4/1.0000/2004x2004.jpg",
+      "width": 2004
+    },
+    "name": "Chris Diamantopoulos",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}

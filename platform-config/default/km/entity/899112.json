@@ -1,0 +1,94 @@
+{
+  "$id": "899112",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_actors": [
+      "35029",
+      "5723",
+      "821"
+    ],
+    "c_backdropImage": {
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://image.tmdb.org/t/p/original/zrnzWEQSJ0jtufPGR4SEnB6s1q1.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/mBk7Uc9pZiQc0NTomkjvIx5ahhvX2YVtL71LL3ZwJao/1920x1080.jpg",
+            "width": 1920
+          },
+          {
+            "height": 1069,
+            "url": "http://a.mktgcdn.com/p-sandbox/mBk7Uc9pZiQc0NTomkjvIx5ahhvX2YVtL71LL3ZwJao/1900x1069.jpg",
+            "width": 1900
+          },
+          {
+            "height": 348,
+            "url": "http://a.mktgcdn.com/p-sandbox/mBk7Uc9pZiQc0NTomkjvIx5ahhvX2YVtL71LL3ZwJao/619x348.jpg",
+            "width": 619
+          },
+          {
+            "height": 338,
+            "url": "http://a.mktgcdn.com/p-sandbox/mBk7Uc9pZiQc0NTomkjvIx5ahhvX2YVtL71LL3ZwJao/600x338.jpg",
+            "width": 600
+          },
+          {
+            "height": 110,
+            "url": "http://a.mktgcdn.com/p-sandbox/mBk7Uc9pZiQc0NTomkjvIx5ahhvX2YVtL71LL3ZwJao/196x110.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/mBk7Uc9pZiQc0NTomkjvIx5ahhvX2YVtL71LL3ZwJao/1920x1080.jpg",
+        "width": 1920
+      }
+    },
+    "c_genres": [
+      "Action",
+      "Comedy",
+      "Crime",
+      "Thriller"
+    ],
+    "c_moviePoster": {
+      "image": {
+        "height": 3000,
+        "sourceUrl": "https://image.tmdb.org/t/p/original/1XSYOP0JjjyMz1irihvWywro82r.jpg",
+        "thumbnails": [
+          {
+            "height": 3000,
+            "url": "http://a.mktgcdn.com/p-sandbox/AQvv1AHjSBJiqItGnoibifTVx4GtXdVktIGs1HRrWPA/2000x3000.jpg",
+            "width": 2000
+          },
+          {
+            "height": 1900,
+            "url": "http://a.mktgcdn.com/p-sandbox/AQvv1AHjSBJiqItGnoibifTVx4GtXdVktIGs1HRrWPA/1267x1900.jpg",
+            "width": 1267
+          },
+          {
+            "height": 929,
+            "url": "http://a.mktgcdn.com/p-sandbox/AQvv1AHjSBJiqItGnoibifTVx4GtXdVktIGs1HRrWPA/619x929.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/AQvv1AHjSBJiqItGnoibifTVx4GtXdVktIGs1HRrWPA/300x450.jpg",
+            "width": 300
+          },
+          {
+            "height": 294,
+            "url": "http://a.mktgcdn.com/p-sandbox/AQvv1AHjSBJiqItGnoibifTVx4GtXdVktIGs1HRrWPA/196x294.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/AQvv1AHjSBJiqItGnoibifTVx4GtXdVktIGs1HRrWPA/2000x3000.jpg",
+        "width": 2000
+      }
+    },
+    "c_releaseDate": "2022-11-30",
+    "description": "When a team of mercenaries breaks into a wealthy family compound on Christmas Eve, taking everyone inside hostage, the team isn’t prepared for a surprise combatant: Santa Claus is on the grounds, and he’s about to show why this Nick is no saint.",
+    "name": "Violent Night",
+    "slug": "/movie/[[entityId]]"
+  },
+  "entityType": "ce_movie",
+  "labels": []
+}

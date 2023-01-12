@@ -1,0 +1,40 @@
+{
+  "$id": "83860",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Aldis Alexander Basil Hodge (born September 20, 1986) is an American actor best known for his role as Alec Hardison on the TNT series Leverage and as MC Ren in the 2015 biopic, Straight Outta Compton. Aldis is the younger brother of actor Edwin Hodge. In 2007, Hodge was awarded the role of Alec Hardison on the day of his twenty\\-first birthday.",
+    "c_birthDate": "1986-09-20",
+    "c_birthPlace": "Onslow County, North Carolina, USA",
+    "c_movies": [
+      "436270"
+    ],
+    "headshot": {
+      "height": 1350,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//jPpnaAGFXaIeOrRNUHIHxk3fIJL.jpg",
+      "thumbnails": [
+        {
+          "height": 1350,
+          "url": "http://a.mktgcdn.com/p-sandbox/x1lagngi3MRjxO3WVcjmHIWl9mN0-fPevsoQRkcmeoY/1.0000/1350x1350.jpg",
+          "width": 1350
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/x1lagngi3MRjxO3WVcjmHIWl9mN0-fPevsoQRkcmeoY/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/x1lagngi3MRjxO3WVcjmHIWl9mN0-fPevsoQRkcmeoY/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/x1lagngi3MRjxO3WVcjmHIWl9mN0-fPevsoQRkcmeoY/1.0000/1350x1350.jpg",
+      "width": 1350
+    },
+    "name": "Aldis Hodge",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}

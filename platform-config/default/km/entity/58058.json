@@ -1,0 +1,40 @@
+{
+  "$id": "58058",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Lochlyn Munro is a Canadian actor. His most notable film roles include A Night at the Roxbury, Scary Movie, Freddy vs. Jason, White Chicks, The Predator and Cosmic Sin. For television, he is perhaps best known for his roles in the Canadian series Northwood, supernatural drama Charmed, and teen drama Riverdale.",
+    "c_birthDate": "1966-02-12",
+    "c_birthPlace": "Lac La Hache, British Columbia, Canada",
+    "c_movies": [
+      "1024546"
+    ],
+    "headshot": {
+      "height": 1557,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//nTtzCBFYTEnYCS7CqUwxtC6OsXD.jpg",
+      "thumbnails": [
+        {
+          "height": 1557,
+          "url": "http://a.mktgcdn.com/p-sandbox/iMvEW18uivUoQHKzRP3O5puKSZqUbpjyE8fJEAUeHTo/1.0000/1557x1557.jpg",
+          "width": 1557
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/iMvEW18uivUoQHKzRP3O5puKSZqUbpjyE8fJEAUeHTo/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/iMvEW18uivUoQHKzRP3O5puKSZqUbpjyE8fJEAUeHTo/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/iMvEW18uivUoQHKzRP3O5puKSZqUbpjyE8fJEAUeHTo/1.0000/1557x1557.jpg",
+      "width": 1557
+    },
+    "name": "Lochlyn Munro",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}

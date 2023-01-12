@@ -1,0 +1,40 @@
+{
+  "$id": "821",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Beverly D\u0027Angelo (born November 15, 1951) is an American actress and singer. Description above from the Wikipedia article Beverly D\u0027Angelo, licensed under CC\\-BY\\-SA, full list of contributors on Wikipedia.",
+    "c_birthDate": "1951-11-15",
+    "c_birthPlace": "Columbus, Ohio, USA",
+    "c_movies": [
+      "899112"
+    ],
+    "headshot": {
+      "height": 1500,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//8fYQIA8dAaA4GOTxOFSKIvTqzi.jpg",
+      "thumbnails": [
+        {
+          "height": 1500,
+          "url": "http://a.mktgcdn.com/p-sandbox/1Pkj9Qm0I8jCgyplflze-qeC7DlCP1ghq006RWCS7Lc/1.0000/1500x1500.jpg",
+          "width": 1500
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/1Pkj9Qm0I8jCgyplflze-qeC7DlCP1ghq006RWCS7Lc/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/1Pkj9Qm0I8jCgyplflze-qeC7DlCP1ghq006RWCS7Lc/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/1Pkj9Qm0I8jCgyplflze-qeC7DlCP1ghq006RWCS7Lc/1.0000/1500x1500.jpg",
+      "width": 1500
+    },
+    "name": "Beverly D\u0027Angelo",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}

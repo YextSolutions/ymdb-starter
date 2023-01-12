@@ -1,0 +1,39 @@
+{
+  "$id": "1198776",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Samantha Castillo, Venezuelan actress, was born on March 12th, 1980, in Los Teques, Venezuela. With more than fifteen years of theater experience, Samantha has a Bachelors degree in Arts at Central University of Venezuela, and additional acting training in different techniques and schools in Venezuela and Cuba. In the cinema field, she has been awarded numerous times for her performance in national and international festivals. The role that has given her most recognition was \"Marta\" in the film Pelo Malo by Mariana Rondon (winning film of La Concha de Oro at the San Sebastian Festival 2013). Samantha accompanied the film in a circuit of more than 15 international festivals, earning seven awards and two nominations for her role as Marta. In Malquerido by Diego Risquez, she played La Lupe, an icon of Latin music, being recognized as best supporting actress at the Merida Film Festival and the Caracas Film Festival in Venezuela. In the film El Amparo by Rober Calzadilla (winner film of the Public Award in Biarritz), Samantha had an additional challenge, along with the artistic team, being immersed in isolation in the Venezuelan plains for over 2 months. This enabled real acquisition of the physical and emotional subtleties required by the character. Samantha received a special mention as Supporting Actress at the Merida Film Festival in Venezuela. In Le Badanti by Italian director Marco Pollini, Samantha played Lola, a Latin American immigrant in Italy. To excel in her interpretation, Samantha studied Italian intensively during the previous months and took Pole Dance lessons for a one\\-minute sequence in the film. Samantha has also contributed to theater research and teaching in Venezuela, developing professional training programs for young actors, stressing both practical and theoretical work elements of the actor. These trainings have taken place in theater schools in Caracas, The Higher School of Performing Arts Juana Sujo and The School of Musical Theater of Caracas.",
+    "c_birthPlace": "Los Teques, Venezuela",
+    "c_movies": [
+      "943221"
+    ],
+    "headshot": {
+      "height": 900,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//lEncigxnVPIfkk8tQ3eECY7z8tz.jpg",
+      "thumbnails": [
+        {
+          "height": 900,
+          "url": "http://a.mktgcdn.com/p-sandbox/b_BVmoMpI7j9HO29awG-f45p_dfv3BaYE3EUgFf8wv8/1.0000/900x900.jpg",
+          "width": 900
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/b_BVmoMpI7j9HO29awG-f45p_dfv3BaYE3EUgFf8wv8/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/b_BVmoMpI7j9HO29awG-f45p_dfv3BaYE3EUgFf8wv8/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/b_BVmoMpI7j9HO29awG-f45p_dfv3BaYE3EUgFf8wv8/1.0000/900x900.jpg",
+      "width": 900
+    },
+    "name": "Samantha Castillo",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}

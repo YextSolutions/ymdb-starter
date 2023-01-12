@@ -1,0 +1,91 @@
+{
+  "$id": "76600",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_actors": [
+      "65731"
+    ],
+    "c_backdropImage": {
+      "image": {
+        "height": 2160,
+        "sourceUrl": "https://image.tmdb.org/t/p/original/s16H6tpK2utvwDtzZ8Qy4qm5Emw.jpg",
+        "thumbnails": [
+          {
+            "height": 2160,
+            "url": "http://a.mktgcdn.com/p-sandbox/yNNTLb0AvlMOjLUZ1QdCBUf-NHMaqJJjEq_8f7FKw1Y/3840x2160.jpg",
+            "width": 3840
+          },
+          {
+            "height": 1069,
+            "url": "http://a.mktgcdn.com/p-sandbox/yNNTLb0AvlMOjLUZ1QdCBUf-NHMaqJJjEq_8f7FKw1Y/1900x1069.jpg",
+            "width": 1900
+          },
+          {
+            "height": 348,
+            "url": "http://a.mktgcdn.com/p-sandbox/yNNTLb0AvlMOjLUZ1QdCBUf-NHMaqJJjEq_8f7FKw1Y/619x348.jpg",
+            "width": 619
+          },
+          {
+            "height": 338,
+            "url": "http://a.mktgcdn.com/p-sandbox/yNNTLb0AvlMOjLUZ1QdCBUf-NHMaqJJjEq_8f7FKw1Y/600x338.jpg",
+            "width": 600
+          },
+          {
+            "height": 110,
+            "url": "http://a.mktgcdn.com/p-sandbox/yNNTLb0AvlMOjLUZ1QdCBUf-NHMaqJJjEq_8f7FKw1Y/196x110.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/yNNTLb0AvlMOjLUZ1QdCBUf-NHMaqJJjEq_8f7FKw1Y/3840x2160.jpg",
+        "width": 3840
+      }
+    },
+    "c_genres": [
+      "Science Fiction",
+      "Adventure",
+      "Action"
+    ],
+    "c_moviePoster": {
+      "image": {
+        "height": 3000,
+        "sourceUrl": "https://image.tmdb.org/t/p/original/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+        "thumbnails": [
+          {
+            "height": 3000,
+            "url": "http://a.mktgcdn.com/p-sandbox/W1in94t1DzD8V573zwF6MV-9i3fAb8HSFDvAexxE5Ks/2000x3000.jpg",
+            "width": 2000
+          },
+          {
+            "height": 1900,
+            "url": "http://a.mktgcdn.com/p-sandbox/W1in94t1DzD8V573zwF6MV-9i3fAb8HSFDvAexxE5Ks/1267x1900.jpg",
+            "width": 1267
+          },
+          {
+            "height": 929,
+            "url": "http://a.mktgcdn.com/p-sandbox/W1in94t1DzD8V573zwF6MV-9i3fAb8HSFDvAexxE5Ks/619x929.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/W1in94t1DzD8V573zwF6MV-9i3fAb8HSFDvAexxE5Ks/300x450.jpg",
+            "width": 300
+          },
+          {
+            "height": 294,
+            "url": "http://a.mktgcdn.com/p-sandbox/W1in94t1DzD8V573zwF6MV-9i3fAb8HSFDvAexxE5Ks/196x294.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/W1in94t1DzD8V573zwF6MV-9i3fAb8HSFDvAexxE5Ks/2000x3000.jpg",
+        "width": 2000
+      }
+    },
+    "c_releaseDate": "2022-12-16",
+    "description": "The longest movie ever.",
+    "name": "Avatar: The Way of Water",
+    "slug": "/movie/[[entityId]]"
+  },
+  "entityType": "ce_movie",
+  "labels": []
+}

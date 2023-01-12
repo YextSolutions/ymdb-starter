@@ -1,0 +1,40 @@
+{
+  "$id": "5528",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "William Moseley is an English actor.",
+    "c_birthDate": "1987-04-27",
+    "c_birthPlace": "Sheepscombe, Gloucestershire, England, UK",
+    "c_movies": [
+      "411"
+    ],
+    "headshot": {
+      "height": 900,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//7a55ifGzqKIw9TbEYQUc0bnHfnq.jpg",
+      "thumbnails": [
+        {
+          "height": 900,
+          "url": "http://a.mktgcdn.com/p-sandbox/qe5TYkbglRjzI56l3sVfDGf1a_TOCmiewyAQVsqti_E/1.0000/900x900.jpg",
+          "width": 900
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/qe5TYkbglRjzI56l3sVfDGf1a_TOCmiewyAQVsqti_E/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/qe5TYkbglRjzI56l3sVfDGf1a_TOCmiewyAQVsqti_E/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/qe5TYkbglRjzI56l3sVfDGf1a_TOCmiewyAQVsqti_E/1.0000/900x900.jpg",
+      "width": 900
+    },
+    "name": "William Moseley",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}

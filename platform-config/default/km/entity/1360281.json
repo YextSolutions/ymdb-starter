@@ -1,0 +1,45 @@
+{
+  "$id": "1360281",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Lashana Rasheda Lynch (born 27 November 1987) is a British actress. She is best known for playing the role of Rosaline Capulet in the ABC period drama series Still Star\\-Crossed (2017) and fighter pilot Maria Rambeau in Captain Marvel (2019). Lynch made her film debut in the 2012 drama film Fast Girls. She later co\\-starred in the BBC television film The 7.39. On television, she has appeared in Silent Witness and Death in Paradise and was a regular cast member on the short\\-lived BBC comedy Crims in 2015. In 2016, Lynch was cast as leading character Rosaline Capulet in the American period drama series Still Star\\-Crossed, produced by Shonda Rhimes. In 2018, she joined the cast of Y as Agent 355. In 2019, she played fighter pilot Maria Rambeau in the Marvel Cinematic Universe film Captain Marvel. She has been cast as Nomi in the James Bond film No Time to Die, due for release in November 2020. Description above is from the Wikipedia article Lashana Lynch, licensed under CC\\-BY\\-SA, full list of contributors on Wikipedia.",
+    "c_birthDate": "1987-11-27",
+    "c_birthPlace": "London, England, UK",
+    "c_movies": [
+      "724495"
+    ],
+    "headshot": {
+      "height": 1920,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//ypNxRag9uJ5nzPAN2um3amQK340.jpg",
+      "thumbnails": [
+        {
+          "height": 1920,
+          "url": "http://a.mktgcdn.com/p-sandbox/wcfYRuffeSW-zjp3V54S8ehh3k-jfiTswjazQtrsZBw/1.0000/1920x1920.jpg",
+          "width": 1920
+        },
+        {
+          "height": 1900,
+          "url": "http://a.mktgcdn.com/p-sandbox/wcfYRuffeSW-zjp3V54S8ehh3k-jfiTswjazQtrsZBw/1.0000/1900x1900.jpg",
+          "width": 1900
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/wcfYRuffeSW-zjp3V54S8ehh3k-jfiTswjazQtrsZBw/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/wcfYRuffeSW-zjp3V54S8ehh3k-jfiTswjazQtrsZBw/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/wcfYRuffeSW-zjp3V54S8ehh3k-jfiTswjazQtrsZBw/1.0000/1920x1920.jpg",
+      "width": 1920
+    },
+    "name": "Lashana Lynch",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}

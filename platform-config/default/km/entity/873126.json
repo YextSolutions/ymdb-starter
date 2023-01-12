@@ -1,0 +1,88 @@
+{
+  "$id": "873126",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_actors": [
+      "2305273",
+      "41527",
+      "57345"
+    ],
+    "c_backdropImage": {
+      "image": {
+        "height": 1152,
+        "sourceUrl": "https://image.tmdb.org/t/p/original/edOt2jNyCbb8SQSvulD2sRRJhmA.jpg",
+        "thumbnails": [
+          {
+            "height": 1152,
+            "url": "http://a.mktgcdn.com/p-sandbox/z_IZnKStRFVkf4jaVbai8a1_j9AgbqfXFYDX8iAZGzA/2048x1152.jpg",
+            "width": 2048
+          },
+          {
+            "height": 1069,
+            "url": "http://a.mktgcdn.com/p-sandbox/z_IZnKStRFVkf4jaVbai8a1_j9AgbqfXFYDX8iAZGzA/1900x1069.jpg",
+            "width": 1900
+          },
+          {
+            "height": 348,
+            "url": "http://a.mktgcdn.com/p-sandbox/z_IZnKStRFVkf4jaVbai8a1_j9AgbqfXFYDX8iAZGzA/619x348.jpg",
+            "width": 619
+          },
+          {
+            "height": 338,
+            "url": "http://a.mktgcdn.com/p-sandbox/z_IZnKStRFVkf4jaVbai8a1_j9AgbqfXFYDX8iAZGzA/600x338.jpg",
+            "width": 600
+          },
+          {
+            "height": 110,
+            "url": "http://a.mktgcdn.com/p-sandbox/z_IZnKStRFVkf4jaVbai8a1_j9AgbqfXFYDX8iAZGzA/196x110.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/z_IZnKStRFVkf4jaVbai8a1_j9AgbqfXFYDX8iAZGzA/2048x1152.jpg",
+        "width": 2048
+      }
+    },
+    "c_genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "c_moviePoster": {
+      "image": {
+        "height": 1500,
+        "sourceUrl": "https://image.tmdb.org/t/p/original/7l3war94J4tRyWUiLAGokr3ViF2.jpg",
+        "thumbnails": [
+          {
+            "height": 1500,
+            "url": "http://a.mktgcdn.com/p-sandbox/Vm3qn3POTsnvpRUIOeWkUnFHn7uy_lqMykwq-dH9x6w/1000x1500.jpg",
+            "width": 1000
+          },
+          {
+            "height": 929,
+            "url": "http://a.mktgcdn.com/p-sandbox/Vm3qn3POTsnvpRUIOeWkUnFHn7uy_lqMykwq-dH9x6w/619x929.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/Vm3qn3POTsnvpRUIOeWkUnFHn7uy_lqMykwq-dH9x6w/300x450.jpg",
+            "width": 300
+          },
+          {
+            "height": 294,
+            "url": "http://a.mktgcdn.com/p-sandbox/Vm3qn3POTsnvpRUIOeWkUnFHn7uy_lqMykwq-dH9x6w/196x294.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/Vm3qn3POTsnvpRUIOeWkUnFHn7uy_lqMykwq-dH9x6w/1000x1500.jpg",
+        "width": 1000
+      }
+    },
+    "c_releaseDate": "2022-11-30",
+    "description": "After old enemies kill his family, a former mafia enforcer and his feisty daughter flee to Milan, where they hide out while plotting their revenge.",
+    "name": "My Name Is Vendetta",
+    "slug": "/movie/[[entityId]]"
+  },
+  "entityType": "ce_movie",
+  "labels": []
+}

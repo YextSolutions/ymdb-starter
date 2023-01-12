@@ -1,0 +1,40 @@
+{
+  "$id": "6065",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Dennis William Quaid (born April 9, 1954) is an American actor. He became known during the 1980s after appearing in several successful films, including as Mike Brody in Jaws 3\\-D (1983), Alex Gardner in Dreamscape (1984), Remy McSwain in The Big Easy (1987), Tuck Pendleton in Innerspace (1987), Jefferson \"Jeff\" Blue in Undercover Blues (1993), Bowen in Dragonheart (1996), Joe Doe/William in Gang Related (1997), Frank Towns in Flight of the Phoenix (2004), Jack Hall in The Day After Tomorrow (2004) and Reverend Shaw Moore in Footloose (2011).",
+    "c_birthDate": "1954-04-09",
+    "c_birthPlace": "Houston, Texas, USA",
+    "c_movies": [
+      "877269"
+    ],
+    "headshot": {
+      "height": 1728,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//nvkto83iFngO8jg9UpdSaEBRC8a.jpg",
+      "thumbnails": [
+        {
+          "height": 1728,
+          "url": "http://a.mktgcdn.com/p-sandbox/jP94kTmrkJ1ZeLZdY5QvwIEI1678NSm40wu0mBNTJLA/1.0000/1728x1728.jpg",
+          "width": 1728
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/jP94kTmrkJ1ZeLZdY5QvwIEI1678NSm40wu0mBNTJLA/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/jP94kTmrkJ1ZeLZdY5QvwIEI1678NSm40wu0mBNTJLA/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/jP94kTmrkJ1ZeLZdY5QvwIEI1678NSm40wu0mBNTJLA/1.0000/1728x1728.jpg",
+      "width": 1728
+    },
+    "name": "Dennis Quaid",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}

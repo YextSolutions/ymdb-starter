@@ -1,0 +1,93 @@
+{
+  "$id": "736526",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_actors": [
+      "1394758",
+      "225810",
+      "105563"
+    ],
+    "c_backdropImage": {
+      "image": {
+        "height": 1606,
+        "sourceUrl": "https://image.tmdb.org/t/p/original/53BC9F2tpZnsGno2cLhzvGprDYS.jpg",
+        "thumbnails": [
+          {
+            "height": 1606,
+            "url": "http://a.mktgcdn.com/p-sandbox/d5vtBFcQ41bXK8-S_Yr1qc1PsSmpLlTxEZ3UIAdDa08/2856x1606.jpg",
+            "width": 2856
+          },
+          {
+            "height": 1068,
+            "url": "http://a.mktgcdn.com/p-sandbox/d5vtBFcQ41bXK8-S_Yr1qc1PsSmpLlTxEZ3UIAdDa08/1900x1068.jpg",
+            "width": 1900
+          },
+          {
+            "height": 348,
+            "url": "http://a.mktgcdn.com/p-sandbox/d5vtBFcQ41bXK8-S_Yr1qc1PsSmpLlTxEZ3UIAdDa08/619x348.jpg",
+            "width": 619
+          },
+          {
+            "height": 337,
+            "url": "http://a.mktgcdn.com/p-sandbox/d5vtBFcQ41bXK8-S_Yr1qc1PsSmpLlTxEZ3UIAdDa08/600x337.jpg",
+            "width": 600
+          },
+          {
+            "height": 110,
+            "url": "http://a.mktgcdn.com/p-sandbox/d5vtBFcQ41bXK8-S_Yr1qc1PsSmpLlTxEZ3UIAdDa08/196x110.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/d5vtBFcQ41bXK8-S_Yr1qc1PsSmpLlTxEZ3UIAdDa08/2856x1606.jpg",
+        "width": 2856
+      }
+    },
+    "c_genres": [
+      "Fantasy",
+      "Action",
+      "Adventure"
+    ],
+    "c_moviePoster": {
+      "image": {
+        "height": 3000,
+        "sourceUrl": "https://image.tmdb.org/t/p/original/9z4jRr43JdtU66P0iy8h18OyLql.jpg",
+        "thumbnails": [
+          {
+            "height": 3000,
+            "url": "http://a.mktgcdn.com/p-sandbox/1CwmfKO6QIV2qITUzLZL5tXLSzNjx6q3PTTQFprUino/2000x3000.jpg",
+            "width": 2000
+          },
+          {
+            "height": 1900,
+            "url": "http://a.mktgcdn.com/p-sandbox/1CwmfKO6QIV2qITUzLZL5tXLSzNjx6q3PTTQFprUino/1267x1900.jpg",
+            "width": 1267
+          },
+          {
+            "height": 929,
+            "url": "http://a.mktgcdn.com/p-sandbox/1CwmfKO6QIV2qITUzLZL5tXLSzNjx6q3PTTQFprUino/619x929.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/1CwmfKO6QIV2qITUzLZL5tXLSzNjx6q3PTTQFprUino/300x450.jpg",
+            "width": 300
+          },
+          {
+            "height": 294,
+            "url": "http://a.mktgcdn.com/p-sandbox/1CwmfKO6QIV2qITUzLZL5tXLSzNjx6q3PTTQFprUino/196x294.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/1CwmfKO6QIV2qITUzLZL5tXLSzNjx6q3PTTQFprUino/2000x3000.jpg",
+        "width": 2000
+      }
+    },
+    "c_releaseDate": "2022-12-01",
+    "description": "Deep inside the mountain of Dovre, something gigantic awakens after being trapped for a thousand years. Destroying everything in its path, the creature is fast approaching the capital of Norway. But how do you stop something you thought only existed in Norwegian folklore?",
+    "name": "Troll",
+    "slug": "/movie/[[entityId]]"
+  },
+  "entityType": "ce_movie",
+  "labels": []
+}

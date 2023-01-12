@@ -1,0 +1,186 @@
+{
+  "$id": "getMovies",
+  "$schema": "https://schema.yext.com/config/km/connector/v3",
+  "displayName": "Get Movies",
+  "entityType": "ce_movie",
+  "source": {
+    "sourceConfig": {
+      "apiPullConfig": {
+        "requestType": "GET",
+        "url": "https://api.themoviedb.org/3/discover/movie",
+        "headers": {},
+        "queryParams": {},
+        "dataFormat": "JSON"
+      }
+    },
+    "baseSelector": {
+      "type": "JSON",
+      "header": "Entity Container",
+      "path": "results"
+    },
+    "selectors": [
+      {
+        "type": "JSON",
+        "header": "adult",
+        "path": "adult"
+      },
+      {
+        "type": "JSON",
+        "header": "backdrop_path",
+        "path": "backdrop_path"
+      },
+      {
+        "type": "JSON",
+        "header": "genre_ids",
+        "path": "genre_ids"
+      },
+      {
+        "type": "JSON",
+        "header": "id",
+        "path": "id"
+      },
+      {
+        "type": "JSON",
+        "header": "original_language",
+        "path": "original_language"
+      },
+      {
+        "type": "JSON",
+        "header": "original_title",
+        "path": "original_title"
+      },
+      {
+        "type": "JSON",
+        "header": "overview",
+        "path": "overview"
+      },
+      {
+        "type": "JSON",
+        "header": "popularity",
+        "path": "popularity"
+      },
+      {
+        "type": "JSON",
+        "header": "poster_path",
+        "path": "poster_path"
+      },
+      {
+        "type": "JSON",
+        "header": "release_date",
+        "path": "release_date"
+      },
+      {
+        "type": "JSON",
+        "header": "title",
+        "path": "title"
+      },
+      {
+        "type": "JSON",
+        "header": "video",
+        "path": "video"
+      },
+      {
+        "type": "JSON",
+        "header": "vote_average",
+        "path": "vote_average"
+      },
+      {
+        "type": "JSON",
+        "header": "vote_count",
+        "path": "vote_count"
+      }
+    ]
+  },
+  "transforms": [
+    {
+      "findAndReplace": {
+        "inputHeaders": {
+          "headers": [
+            "backdrop_path",
+            "poster_path"
+          ]
+        },
+        "valueToFind": {
+          "plainText": {
+            "value": "/",
+            "ignoreCase": false
+          }
+        },
+        "replacement": "https://image.tmdb.org/t/p/original/"
+      }
+    },
+    {
+      "function": {
+        "inputHeaders": {
+          "headers": [
+            "genre_ids"
+          ]
+        },
+        "plugin": "ymdb-plugin",
+        "function": "getGenres"
+      }
+    },
+    {
+      "addColumn": {
+        "newColumnHeader": "Slug",
+        "columnValue": "/movie/[[entityId]]"
+      }
+    }
+  ],
+  "mappings": [
+    {
+      "field": "c_backdropImage",
+      "header": "backdrop_path",
+      "subfieldPath": [
+        {
+          "name": "image"
+        },
+        {
+          "name": "url"
+        }
+      ]
+    },
+    {
+      "field": "description",
+      "header": "overview",
+      "subfieldPath": []
+    },
+    {
+      "field": "c_releaseDate",
+      "header": "release_date",
+      "subfieldPath": []
+    },
+    {
+      "field": "entityId",
+      "header": "id",
+      "subfieldPath": []
+    },
+    {
+      "field": "name",
+      "header": "title",
+      "subfieldPath": []
+    },
+    {
+      "field": "slug",
+      "header": "Slug",
+      "subfieldPath": []
+    },
+    {
+      "field": "c_genres",
+      "header": "genre_ids",
+      "subfieldPath": []
+    },
+    {
+      "field": "c_moviePoster",
+      "header": "poster_path",
+      "subfieldPath": [
+        {
+          "name": "image"
+        },
+        {
+          "name": "url"
+        }
+      ]
+    }
+  ]
+}

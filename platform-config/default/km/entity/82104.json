@@ -1,0 +1,40 @@
+{
+  "$id": "82104",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Danai Jekesai Gurira (born February 14, 1978) is a Zimbabwean\\-American actress and playwright. She is best known for her roles as Michonne on the AMC post\\-apocalyptic series The Walking Dead and as Okoye in the Marvel Cinematic Universe films Black Panther (2018), Avengers: Infinity War (2018), Avengers: Endgame (2019) and Black Panther: Wakanda Forever (2022). Gurira was born in Grinnell, Iowa and was raised there until December 1983, when she moved with her family to Harare, Zimbabwe. She has an older brother who is a chiropractor and two older sisters, while her mother is a university librarian and her father is a chemistry professor. She returned to the United States at age 19 to study at Macalester College. She earned her MFA at New York University.",
+    "c_birthDate": "1978-02-14",
+    "c_birthPlace": "Grinnell, Iowa, USA",
+    "c_movies": [
+      "505642"
+    ],
+    "headshot": {
+      "height": 1396,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//gjTMEc5bl5iA1aO9KweIQ1vcuWp.jpg",
+      "thumbnails": [
+        {
+          "height": 1396,
+          "url": "http://a.mktgcdn.com/p-sandbox/75H9vl_TTl5BuGgFZYa580MMNuOT1lm5kiiI0e2Mi58/1.0000/1396x1396.jpg",
+          "width": 1396
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/75H9vl_TTl5BuGgFZYa580MMNuOT1lm5kiiI0e2Mi58/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/75H9vl_TTl5BuGgFZYa580MMNuOT1lm5kiiI0e2Mi58/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/75H9vl_TTl5BuGgFZYa580MMNuOT1lm5kiiI0e2Mi58/1.0000/1396x1396.jpg",
+      "width": 1396
+    },
+    "name": "Danai Gurira",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}

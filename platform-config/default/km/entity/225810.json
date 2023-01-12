@@ -1,0 +1,38 @@
+{
+  "$id": "225810",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Kim S. Falck\\-Jørgensen is a Norwegian actor and film director with an acting education from the State Theater Academy and a master\u0027s degree in film directing from New York University Tisch Asia.",
+    "c_movies": [
+      "736526"
+    ],
+    "headshot": {
+      "height": 880,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//pMwD3F5ANWQNF9UU3KivLt2EgFa.jpg",
+      "thumbnails": [
+        {
+          "height": 880,
+          "url": "http://a.mktgcdn.com/p-sandbox/fa2Md6BcVoRYmPfPJEQxXBLVrPJJOGw1T1fJwe69MCY/1.0000/880x880.jpg",
+          "width": 880
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/fa2Md6BcVoRYmPfPJEQxXBLVrPJJOGw1T1fJwe69MCY/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/fa2Md6BcVoRYmPfPJEQxXBLVrPJJOGw1T1fJwe69MCY/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/fa2Md6BcVoRYmPfPJEQxXBLVrPJJOGw1T1fJwe69MCY/1.0000/880x880.jpg",
+      "width": 880
+    },
+    "name": "Kim S. Falck-Jørgensen",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}

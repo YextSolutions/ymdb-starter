@@ -14,7 +14,7 @@ type PageLayoutProps = {
 };
 
 const searcher = provideHeadless({
-  apiKey: "b115c61363d80daac5e8a1db500b4549",
+  apiKey: import.meta.env.YEXT_PUBLIC_SEARCH_API_KEY,
   experienceKey: "ymdb",
   locale: "en",
   endpoints: SandboxEndpoints,

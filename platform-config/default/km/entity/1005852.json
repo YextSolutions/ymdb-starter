@@ -1,0 +1,45 @@
+{
+  "$id": "1005852",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Janelle Monáe Robinson (born December 1, 1985) is an American singer, songwriter, rapper, record producer, actor, and model from Kansas City, Kansas. She began her musical career in 2003, and released her debut album \u0027The ArchAndroid\u0027 in 2010 which was met with critical acclaim and gained her international recognition. Monáe made her live action acting film debut in the Academy Award winning 2016 film \u0027Moonlight\u0027. The same year she starred in the biographical drama film \u0027Hidden Figures\u0027 alongside Taraji P. Henson and Octavia Spencer. For her musical work, Monáe has earned eight Grammy Award nominations.",
+    "c_birthDate": "1985-12-01",
+    "c_birthPlace": "Kansas City, Kansas, USA",
+    "c_movies": [
+      "661374"
+    ],
+    "headshot": {
+      "height": 2457,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//xavjGiGltQEDWqNdbe0zd1lO0UR.jpg",
+      "thumbnails": [
+        {
+          "height": 2457,
+          "url": "http://a.mktgcdn.com/p-sandbox/T1zsAtntM_CPiYqrbsM71Dsrf8jGtY7PdmhNWdcyYrw/1.0000/2457x2457.jpg",
+          "width": 2457
+        },
+        {
+          "height": 1900,
+          "url": "http://a.mktgcdn.com/p-sandbox/T1zsAtntM_CPiYqrbsM71Dsrf8jGtY7PdmhNWdcyYrw/1.0000/1900x1900.jpg",
+          "width": 1900
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/T1zsAtntM_CPiYqrbsM71Dsrf8jGtY7PdmhNWdcyYrw/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/T1zsAtntM_CPiYqrbsM71Dsrf8jGtY7PdmhNWdcyYrw/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/T1zsAtntM_CPiYqrbsM71Dsrf8jGtY7PdmhNWdcyYrw/1.0000/2457x2457.jpg",
+      "width": 2457
+    },
+    "name": "Janelle Monáe",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}

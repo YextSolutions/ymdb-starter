@@ -1,0 +1,40 @@
+{
+  "$id": "2043430",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Jenna Davis is an American actress, dancer, singer\\-songwriter, and model. She is known for her role as the voice of M3GAN in the 2022 horror film M3GAN.",
+    "c_birthDate": "2004-05-05",
+    "c_birthPlace": "Plano, Texas, United States",
+    "c_movies": [
+      "536554"
+    ],
+    "headshot": {
+      "height": 749,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//mdGNqspZzjZd26Wn0tyQPWI0RIz.jpg",
+      "thumbnails": [
+        {
+          "height": 749,
+          "url": "http://a.mktgcdn.com/p-sandbox/DoEficL7pg5-w7AP8rrfVPdApsXgqRWsL51klVSTbwI/1.0000/749x749.jpg",
+          "width": 749
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/DoEficL7pg5-w7AP8rrfVPdApsXgqRWsL51klVSTbwI/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/DoEficL7pg5-w7AP8rrfVPdApsXgqRWsL51klVSTbwI/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/DoEficL7pg5-w7AP8rrfVPdApsXgqRWsL51klVSTbwI/1.0000/749x749.jpg",
+      "width": 749
+    },
+    "name": "Jenna Davis",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}

@@ -1,0 +1,40 @@
+{
+  "$id": "1203378",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Abimana Aryasatya is an Indonesian actor and film producer. He is best known for starring in the films Shackled (2012), The Night Comes For Us (2018), Gundala (2019), and in the highest\\-grossing Indonesian film of all time, Warkop DKI Reborn: Jangkrik Boss! Part 1 (2016). He has received multiple awards and nominations such as Indonesian Movie Awards, Indonesian Film Festival, and Indonesian Box Office Movie Awards",
+    "c_birthDate": "1982-10-24",
+    "c_birthPlace": "Jakarta, Indonesia",
+    "c_movies": [
+      "683328"
+    ],
+    "headshot": {
+      "height": 745,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//st21RUdZjvr33tp2XDWzCwLaCzp.jpg",
+      "thumbnails": [
+        {
+          "height": 745,
+          "url": "http://a.mktgcdn.com/p-sandbox/PdMHcwuHbVZLtvhoo0R1OgXRzfVGL8q0vdJrrUlvpsg/1.0000/745x745.jpg",
+          "width": 745
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/PdMHcwuHbVZLtvhoo0R1OgXRzfVGL8q0vdJrrUlvpsg/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/PdMHcwuHbVZLtvhoo0R1OgXRzfVGL8q0vdJrrUlvpsg/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/PdMHcwuHbVZLtvhoo0R1OgXRzfVGL8q0vdJrrUlvpsg/1.0000/745x745.jpg",
+      "width": 745
+    },
+    "name": "Abimana Aryasatya",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}

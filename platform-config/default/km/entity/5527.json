@@ -1,0 +1,40 @@
+{
+  "$id": "5527",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "From Wikipedia, the free encyclopedia. Skandar Keynes (born Alexander Amin Casper Keynes; 5 September 1991) is a British actor. He is best known for starring as Edmund Pevensie in The Chronicles of Narnia film series. He has appeared in all three installments, The Lion, the Witch and the Wardrobe, Prince Caspian and The Voyage of the Dawn Treader, which was released on December 10, 2010. Description above from the Wikipedia article Skandar Keynes, licensed under CC\\-BY\\-SA, full list of contributors on Wikipedia.",
+    "c_birthDate": "1991-09-05",
+    "c_birthPlace": "Camden, London, England, UK",
+    "c_movies": [
+      "411"
+    ],
+    "headshot": {
+      "height": 1125,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//pIdgY16c6AzmCD31pXlCR9SjLlM.jpg",
+      "thumbnails": [
+        {
+          "height": 1125,
+          "url": "http://a.mktgcdn.com/p-sandbox/b9rhYJy24lnT_OAiet9PRHawbK2WDvfbTCB6zJWkyzs/1.0000/1125x1125.jpg",
+          "width": 1125
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/b9rhYJy24lnT_OAiet9PRHawbK2WDvfbTCB6zJWkyzs/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/b9rhYJy24lnT_OAiet9PRHawbK2WDvfbTCB6zJWkyzs/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/b9rhYJy24lnT_OAiet9PRHawbK2WDvfbTCB6zJWkyzs/1.0000/1125x1125.jpg",
+      "width": 1125
+    },
+    "name": "Skandar Keynes",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}

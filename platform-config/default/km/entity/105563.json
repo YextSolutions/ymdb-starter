@@ -1,0 +1,40 @@
+{
+  "$id": "105563",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Mads Sjøgård Pettersen is a Norwegian actor and writer, known for Home for Christmas (2019), The 12th Man (2017), Nobel (2016), and Troll (2022).",
+    "c_birthDate": "1984-02-21",
+    "c_birthPlace": "Norway",
+    "c_movies": [
+      "736526"
+    ],
+    "headshot": {
+      "height": 1500,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//6Wg9OBxrmySrzxMLKJgE6vZ2TBN.jpg",
+      "thumbnails": [
+        {
+          "height": 1500,
+          "url": "http://a.mktgcdn.com/p-sandbox/VZBe4vQLWLMrRV4Th0Ces5ZBs04JfnZE-eRK4xr-VJM/1.0000/1500x1500.jpg",
+          "width": 1500
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/VZBe4vQLWLMrRV4Th0Ces5ZBs04JfnZE-eRK4xr-VJM/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/VZBe4vQLWLMrRV4Th0Ces5ZBs04JfnZE-eRK4xr-VJM/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/VZBe4vQLWLMrRV4Th0Ces5ZBs04JfnZE-eRK4xr-VJM/1.0000/1500x1500.jpg",
+      "width": 1500
+    },
+    "name": "Mads Sjøgård Pettersen",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}

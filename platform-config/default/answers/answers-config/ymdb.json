@@ -1,0 +1,52 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/answers-config/v1",
+  "$id": "ymdb",
+  "name": "ymdb",
+  "supportedLocales": [],
+  "countryRestrictions": [],
+  "verticals": {
+    "actor": {
+      "entityTypes": ["ce_actor"],
+      "name": "Actor",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "name": {
+          "semanticTextSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "movie": {
+      "entityTypes": ["ce_movie"],
+      "name": "Movie",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "c_genres": {
+          "nlpFilter": true
+        },
+        "name": {
+          "semanticTextSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    }
+  },
+  "localizations": {},
+  "additionalSearchablePlaces": [],
+  "querySuggestions": {
+    "disablePopularQueries": false,
+    "verticalPromptsOnEmpty": false,
+    "popularQueriesBlacklistedTerms": [],
+    "universalPrompts": [],
+    "verticalPrompts": {
+      "actor": ["[[name]]"],
+      "movie": ["[[name]]", "[[c_genres]] movies"]
+    }
+  }
+}

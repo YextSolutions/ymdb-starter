@@ -1,0 +1,40 @@
+{
+  "$id": "1233729",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Ricardo Arap Bethke Galdames (born March 12, 1980 in Nairobi, Kenya) is a Mexican actor. He was born to a German father and a Chilean mother, but grew up in Mexico. He is most remembered for his role of \"Chacho\" in the telenovela Clase 406. In 2007 he appeared in the Ugly Betty episode \"A Tree Grows in Guadalajara as Antonio Barreiro, a cafe waiter who tried to sweet talk Hilda Suarez, and after meeting her father Ignacio, was the one who tipped off a contact who was waiting for Ignacio\u0027s return to Mexico. Arap also starred in \"Tierra de pasiones\", and in Madre Luna as Demetrio Aguirre. He is also one of the main characters in Doña Bárbara (Telemundo series), playing the role of \"Antonio Sandoval\".\" Although he was born on the African continent, he considers himself Hispanic since that is where he grew up. In his own words: He is made of \"chile, mole andpasilla pepper\" He has also guest\\-starred on the 1st season of RBD: La Familia as \"Alvaro\";Dulce Maria\u0027s new hot conquest, on episode 3 \"El Que Quiera Azul Celeste... Que Se Acueste!\". His cast members were Alfonso Herrera, Anahi, Dulce Maria, Christopher Uckermann, Maite Perroni, \\\u0026Christian Chávez, the stars of the show and the members of the famous popular Latin pop band RBD from Mexico city. Bethke has been living in Colombia since 2005 and started in Victorinos in 2009 .",
+    "c_birthDate": "1980-03-12",
+    "c_birthPlace": "Nairobi, Kenya",
+    "c_movies": [
+      "943221"
+    ],
+    "headshot": {
+      "height": 450,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//del5Hp37s1fb0awRkZb8ZpTximv.jpg",
+      "thumbnails": [
+        {
+          "height": 450,
+          "url": "http://a.mktgcdn.com/p-sandbox/mgS2HPkK7cYBWTos9wDUzUpBCLi3P6mUPR4Oh3rTytk/1.0000/450x450.jpg",
+          "width": 450
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/mgS2HPkK7cYBWTos9wDUzUpBCLi3P6mUPR4Oh3rTytk/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/mgS2HPkK7cYBWTos9wDUzUpBCLi3P6mUPR4Oh3rTytk/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/mgS2HPkK7cYBWTos9wDUzUpBCLi3P6mUPR4Oh3rTytk/1.0000/450x450.jpg",
+      "width": 450
+    },
+    "name": "Arap Bethke",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}

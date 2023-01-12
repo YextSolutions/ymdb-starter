@@ -1,0 +1,96 @@
+{
+  "$id": "315162",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_actors": [
+      "3131",
+      "3136",
+      "210172"
+    ],
+    "c_backdropImage": {
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://image.tmdb.org/t/p/original/r9PkFnRUIthgBp2JZZzD380MWZy.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/vRraKGKcfPmEDa3ptce-PIz9opYMlQqghPW8COyk-Dc/1920x1080.jpg",
+            "width": 1920
+          },
+          {
+            "height": 1069,
+            "url": "http://a.mktgcdn.com/p-sandbox/vRraKGKcfPmEDa3ptce-PIz9opYMlQqghPW8COyk-Dc/1900x1069.jpg",
+            "width": 1900
+          },
+          {
+            "height": 348,
+            "url": "http://a.mktgcdn.com/p-sandbox/vRraKGKcfPmEDa3ptce-PIz9opYMlQqghPW8COyk-Dc/619x348.jpg",
+            "width": 619
+          },
+          {
+            "height": 338,
+            "url": "http://a.mktgcdn.com/p-sandbox/vRraKGKcfPmEDa3ptce-PIz9opYMlQqghPW8COyk-Dc/600x338.jpg",
+            "width": 600
+          },
+          {
+            "height": 110,
+            "url": "http://a.mktgcdn.com/p-sandbox/vRraKGKcfPmEDa3ptce-PIz9opYMlQqghPW8COyk-Dc/196x110.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/vRraKGKcfPmEDa3ptce-PIz9opYMlQqghPW8COyk-Dc/1920x1080.jpg",
+        "width": 1920
+      }
+    },
+    "c_genres": [
+      "Animation",
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "c_moviePoster": {
+      "image": {
+        "height": 3000,
+        "sourceUrl": "https://image.tmdb.org/t/p/original/1NqwE6LP9IEdOZ57NCT51ftHtWT.jpg",
+        "thumbnails": [
+          {
+            "height": 3000,
+            "url": "http://a.mktgcdn.com/p-sandbox/dUaEZTdyapRtGv5u9yvqEhJdNLh0LphX2FyhlyqgHgg/2000x3000.jpg",
+            "width": 2000
+          },
+          {
+            "height": 1900,
+            "url": "http://a.mktgcdn.com/p-sandbox/dUaEZTdyapRtGv5u9yvqEhJdNLh0LphX2FyhlyqgHgg/1267x1900.jpg",
+            "width": 1267
+          },
+          {
+            "height": 929,
+            "url": "http://a.mktgcdn.com/p-sandbox/dUaEZTdyapRtGv5u9yvqEhJdNLh0LphX2FyhlyqgHgg/619x929.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/dUaEZTdyapRtGv5u9yvqEhJdNLh0LphX2FyhlyqgHgg/300x450.jpg",
+            "width": 300
+          },
+          {
+            "height": 294,
+            "url": "http://a.mktgcdn.com/p-sandbox/dUaEZTdyapRtGv5u9yvqEhJdNLh0LphX2FyhlyqgHgg/196x294.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/dUaEZTdyapRtGv5u9yvqEhJdNLh0LphX2FyhlyqgHgg/2000x3000.jpg",
+        "width": 2000
+      }
+    },
+    "c_releaseDate": "2022-12-21",
+    "description": "Puss in Boots discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.",
+    "name": "Puss in Boots: The Last Wish",
+    "slug": "/movie/[[entityId]]"
+  },
+  "entityType": "ce_movie",
+  "labels": []
+}

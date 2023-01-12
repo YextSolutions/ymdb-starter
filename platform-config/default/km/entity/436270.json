@@ -1,0 +1,93 @@
+{
+  "$id": "436270",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_actors": [
+      "18918",
+      "83860",
+      "1253353"
+    ],
+    "c_backdropImage": {
+      "image": {
+        "height": 2160,
+        "sourceUrl": "https://image.tmdb.org/t/p/original/bQXAqRx2Fgc46uCVWgoPz5L5Dtr.jpg",
+        "thumbnails": [
+          {
+            "height": 2160,
+            "url": "http://a.mktgcdn.com/p-sandbox/GPemptOBvRvDyQtFlEJbGHYj_lUSGbiw4HsIIuFy5_4/3840x2160.jpg",
+            "width": 3840
+          },
+          {
+            "height": 1069,
+            "url": "http://a.mktgcdn.com/p-sandbox/GPemptOBvRvDyQtFlEJbGHYj_lUSGbiw4HsIIuFy5_4/1900x1069.jpg",
+            "width": 1900
+          },
+          {
+            "height": 348,
+            "url": "http://a.mktgcdn.com/p-sandbox/GPemptOBvRvDyQtFlEJbGHYj_lUSGbiw4HsIIuFy5_4/619x348.jpg",
+            "width": 619
+          },
+          {
+            "height": 338,
+            "url": "http://a.mktgcdn.com/p-sandbox/GPemptOBvRvDyQtFlEJbGHYj_lUSGbiw4HsIIuFy5_4/600x338.jpg",
+            "width": 600
+          },
+          {
+            "height": 110,
+            "url": "http://a.mktgcdn.com/p-sandbox/GPemptOBvRvDyQtFlEJbGHYj_lUSGbiw4HsIIuFy5_4/196x110.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/GPemptOBvRvDyQtFlEJbGHYj_lUSGbiw4HsIIuFy5_4/3840x2160.jpg",
+        "width": 3840
+      }
+    },
+    "c_genres": [
+      "Action",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "c_moviePoster": {
+      "image": {
+        "height": 2100,
+        "sourceUrl": "https://image.tmdb.org/t/p/original/pFlaoHTZeyNkG83vxsAJiGzfSsa.jpg",
+        "thumbnails": [
+          {
+            "height": 2100,
+            "url": "http://a.mktgcdn.com/p-sandbox/JnX_NaLycENkq2M-x9RrJHIitAxZlEbSGrpDOGerTCU/1400x2100.jpg",
+            "width": 1400
+          },
+          {
+            "height": 1900,
+            "url": "http://a.mktgcdn.com/p-sandbox/JnX_NaLycENkq2M-x9RrJHIitAxZlEbSGrpDOGerTCU/1267x1900.jpg",
+            "width": 1267
+          },
+          {
+            "height": 928,
+            "url": "http://a.mktgcdn.com/p-sandbox/JnX_NaLycENkq2M-x9RrJHIitAxZlEbSGrpDOGerTCU/619x928.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/JnX_NaLycENkq2M-x9RrJHIitAxZlEbSGrpDOGerTCU/300x450.jpg",
+            "width": 300
+          },
+          {
+            "height": 294,
+            "url": "http://a.mktgcdn.com/p-sandbox/JnX_NaLycENkq2M-x9RrJHIitAxZlEbSGrpDOGerTCU/196x294.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/JnX_NaLycENkq2M-x9RrJHIitAxZlEbSGrpDOGerTCU/1400x2100.jpg",
+        "width": 1400
+      }
+    },
+    "c_releaseDate": "2022-10-19",
+    "description": "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods—and imprisoned just as quickly—Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.",
+    "name": "Black Adam",
+    "slug": "/movie/[[entityId]]"
+  },
+  "entityType": "ce_movie",
+  "labels": []
+}

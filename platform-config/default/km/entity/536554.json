@@ -1,0 +1,93 @@
+{
+  "$id": "536554",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_actors": [
+      "1255540",
+      "2131391",
+      "2043430"
+    ],
+    "c_backdropImage": {
+      "image": {
+        "height": 2160,
+        "sourceUrl": "https://image.tmdb.org/t/p/original/5kAGbi9MFAobQTVfK4kWPnIfnP0.jpg",
+        "thumbnails": [
+          {
+            "height": 2160,
+            "url": "http://a.mktgcdn.com/p-sandbox/APF02HW-vqmjMO_aY1seyznjchNwVF6MGCLagnRuwpQ/3840x2160.jpg",
+            "width": 3840
+          },
+          {
+            "height": 1069,
+            "url": "http://a.mktgcdn.com/p-sandbox/APF02HW-vqmjMO_aY1seyznjchNwVF6MGCLagnRuwpQ/1900x1069.jpg",
+            "width": 1900
+          },
+          {
+            "height": 348,
+            "url": "http://a.mktgcdn.com/p-sandbox/APF02HW-vqmjMO_aY1seyznjchNwVF6MGCLagnRuwpQ/619x348.jpg",
+            "width": 619
+          },
+          {
+            "height": 338,
+            "url": "http://a.mktgcdn.com/p-sandbox/APF02HW-vqmjMO_aY1seyznjchNwVF6MGCLagnRuwpQ/600x338.jpg",
+            "width": 600
+          },
+          {
+            "height": 110,
+            "url": "http://a.mktgcdn.com/p-sandbox/APF02HW-vqmjMO_aY1seyznjchNwVF6MGCLagnRuwpQ/196x110.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/APF02HW-vqmjMO_aY1seyznjchNwVF6MGCLagnRuwpQ/3840x2160.jpg",
+        "width": 3840
+      }
+    },
+    "c_genres": [
+      "Science Fiction",
+      "Horror",
+      "Comedy"
+    ],
+    "c_moviePoster": {
+      "image": {
+        "height": 3000,
+        "sourceUrl": "https://image.tmdb.org/t/p/original/7CNCv9uhqdwK7Fv4bR4nmDysnd9.jpg",
+        "thumbnails": [
+          {
+            "height": 3000,
+            "url": "http://a.mktgcdn.com/p-sandbox/RXzQa-x-CwyCnq3SxX6xiBPSiadivfTDsOyRm8sanDw/2000x3000.jpg",
+            "width": 2000
+          },
+          {
+            "height": 1900,
+            "url": "http://a.mktgcdn.com/p-sandbox/RXzQa-x-CwyCnq3SxX6xiBPSiadivfTDsOyRm8sanDw/1267x1900.jpg",
+            "width": 1267
+          },
+          {
+            "height": 929,
+            "url": "http://a.mktgcdn.com/p-sandbox/RXzQa-x-CwyCnq3SxX6xiBPSiadivfTDsOyRm8sanDw/619x929.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/RXzQa-x-CwyCnq3SxX6xiBPSiadivfTDsOyRm8sanDw/300x450.jpg",
+            "width": 300
+          },
+          {
+            "height": 294,
+            "url": "http://a.mktgcdn.com/p-sandbox/RXzQa-x-CwyCnq3SxX6xiBPSiadivfTDsOyRm8sanDw/196x294.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/RXzQa-x-CwyCnq3SxX6xiBPSiadivfTDsOyRm8sanDw/2000x3000.jpg",
+        "width": 2000
+      }
+    },
+    "c_releaseDate": "2023-01-06",
+    "description": "A brilliant toy company roboticist uses artificial intelligence to develop M3GAN, a life-like doll programmed to emotionally bond with her newly orphaned niece. But when the doll\u0027s programming works too well, she becomes overprotective of her new friend with terrifying results.",
+    "name": "M3GAN",
+    "slug": "/movie/[[entityId]]"
+  },
+  "entityType": "ce_movie",
+  "labels": []
+}

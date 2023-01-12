@@ -1,0 +1,40 @@
+{
+  "$id": "10205",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Susan Alexandra \"Sigourney\" Weaver (born October 8, 1949) is an American actress. Weaver is considered to be a pioneer of action heroines in science fiction films. She is known for her role as Ellen Ripley in the Alien franchise, which earned her an Academy Award nomination in 1986 and is often regarded as one of the most significant female protagonists in cinema history. A seven\\-time Golden Globe Award nominee, Weaver won both Best Actress in Drama and Best Supporting Actress in 1988 for her work in the films Gorillas in the Mist and Working Girl, becoming the first person to win two acting Golden Globes in the same year. She also received Academy Award nominations for both films. For her role in the film The Ice Storm (1997), she won the BAFTA Award for Best Actress in a Supporting Role. She also received a Tony Award nomination for her work in the 1984 Broadway play Hurlyburly. Weaver\u0027s other film roles include Ghostbusters (1984), Ghostbusters II (1989), Dave (1993), Galaxy Quest (1999), Holes (2003), WALL\\-E (2008), Avatar (2009), Prayers for Bobby (2009), Paul (2011), The Cabin in the Woods (2012), and A Monster Calls (2016); and the television miniseries Political Animals (2012) and The Defenders (2017). Description above from the Wikipedia article Sigourney Weaver, licensed under CC\\-BY\\-SA, full list of contributors on Wikipedia.",
+    "c_birthDate": "1949-10-08",
+    "c_birthPlace": "Manhattan, New York City, New York, USA",
+    "c_movies": [
+      "19995"
+    ],
+    "headshot": {
+      "height": 909,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//flfhep27iBxseZIlxOMHt6zJFX1.jpg",
+      "thumbnails": [
+        {
+          "height": 909,
+          "url": "http://a.mktgcdn.com/p-sandbox/A7Cj4X0aLVhUuBpqZu0bNI2OIGZDYf5PUQQ5OzFVQ0k/1.0000/909x909.jpg",
+          "width": 909
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/A7Cj4X0aLVhUuBpqZu0bNI2OIGZDYf5PUQQ5OzFVQ0k/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/A7Cj4X0aLVhUuBpqZu0bNI2OIGZDYf5PUQQ5OzFVQ0k/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/A7Cj4X0aLVhUuBpqZu0bNI2OIGZDYf5PUQQ5OzFVQ0k/1.0000/909x909.jpg",
+      "width": 909
+    },
+    "name": "Sigourney Weaver",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}

@@ -1,0 +1,259 @@
+{
+  "$id": "getActorsForMovies",
+  "$schema": "https://schema.yext.com/config/km/connector/v3",
+  "displayName": "Get Actors for Movies",
+  "entityType": "ce_actor",
+  "source": {
+    "sourceConfig": {
+      "apiPullConfig": {
+        "requestType": "GET",
+        "url": "https://sandbox.yext.com/v2/accounts/me/entities",
+        "paginationControl": {
+          "cursorPagination": {
+            "pageKey": "pageToken",
+            "cursor": "response.pageToken",
+            "cursorType": "TOKEN",
+            "detectCursorInHeader": false
+          }
+        },
+        "headers": {},
+        "queryParams": {
+          "entityTypes": "ce_movie",
+          "v": "20220310"
+        },
+        "dataFormat": "JSON"
+      }
+    },
+    "baseSelector": {
+      "type": "JSON",
+      "header": "Entity Container",
+      "path": "response.entities"
+    },
+    "selectors": [
+      {
+        "type": "JSON",
+        "header": "description",
+        "path": "description"
+      },
+      {
+        "type": "JSON",
+        "header": "name",
+        "path": "name"
+      },
+      {
+        "type": "JSON",
+        "header": "c_backdropImage.image.url",
+        "path": "c_backdropImage.image.url"
+      },
+      {
+        "type": "JSON",
+        "header": "c_backdropImage.image.width",
+        "path": "c_backdropImage.image.width"
+      },
+      {
+        "type": "JSON",
+        "header": "c_backdropImage.image.height",
+        "path": "c_backdropImage.image.height"
+      },
+      {
+        "type": "JSON",
+        "header": "c_backdropImage.image.sourceUrl",
+        "path": "c_backdropImage.image.sourceUrl"
+      },
+      {
+        "type": "JSON",
+        "header": "c_backdropImage.image.thumbnails[].url",
+        "path": "c_backdropImage.image.thumbnails[].url"
+      },
+      {
+        "type": "JSON",
+        "header": "c_backdropImage.image.thumbnails[].width",
+        "path": "c_backdropImage.image.thumbnails[].width"
+      },
+      {
+        "type": "JSON",
+        "header": "c_backdropImage.image.thumbnails[].height",
+        "path": "c_backdropImage.image.thumbnails[].height"
+      },
+      {
+        "type": "JSON",
+        "header": "c_genres",
+        "path": "c_genres"
+      },
+      {
+        "type": "JSON",
+        "header": "c_moviePoster.image.url",
+        "path": "c_moviePoster.image.url"
+      },
+      {
+        "type": "JSON",
+        "header": "c_moviePoster.image.width",
+        "path": "c_moviePoster.image.width"
+      },
+      {
+        "type": "JSON",
+        "header": "c_moviePoster.image.height",
+        "path": "c_moviePoster.image.height"
+      },
+      {
+        "type": "JSON",
+        "header": "c_moviePoster.image.sourceUrl",
+        "path": "c_moviePoster.image.sourceUrl"
+      },
+      {
+        "type": "JSON",
+        "header": "c_moviePoster.image.thumbnails[].url",
+        "path": "c_moviePoster.image.thumbnails[].url"
+      },
+      {
+        "type": "JSON",
+        "header": "c_moviePoster.image.thumbnails[].width",
+        "path": "c_moviePoster.image.thumbnails[].width"
+      },
+      {
+        "type": "JSON",
+        "header": "c_moviePoster.image.thumbnails[].height",
+        "path": "c_moviePoster.image.thumbnails[].height"
+      },
+      {
+        "type": "JSON",
+        "header": "c_releaseDate",
+        "path": "c_releaseDate"
+      },
+      {
+        "type": "JSON",
+        "header": "meta.accountId",
+        "path": "meta.accountId"
+      },
+      {
+        "type": "JSON",
+        "header": "meta.uid",
+        "path": "meta.uid"
+      },
+      {
+        "type": "JSON",
+        "header": "meta.id",
+        "path": "meta.id"
+      },
+      {
+        "type": "JSON",
+        "header": "meta.timestamp",
+        "path": "meta.timestamp"
+      },
+      {
+        "type": "JSON",
+        "header": "meta.folderId",
+        "path": "meta.folderId"
+      },
+      {
+        "type": "JSON",
+        "header": "meta.language",
+        "path": "meta.language"
+      },
+      {
+        "type": "JSON",
+        "header": "meta.countryCode",
+        "path": "meta.countryCode"
+      },
+      {
+        "type": "JSON",
+        "header": "meta.entityType",
+        "path": "meta.entityType"
+      }
+    ]
+  },
+  "transforms": [
+    {
+      "extractText": {
+        "inputHeader": "meta.id",
+        "newColumnHeader": "Actor Details String",
+        "extractOperation": "ALL_TEXT_BEFORE",
+        "extractFrom": "OFFSET_FROM_END",
+        "offsetLength": 0
+      }
+    },
+    {
+      "function": {
+        "inputHeaders": {
+          "headers": [
+            "Actor Details String"
+          ]
+        },
+        "plugin": "ymdb-plugin",
+        "function": "getActorsForMovieId"
+      }
+    },
+    {
+      "splitIntoRows": {
+        "inputHeader": "Actor Details String",
+        "delimiter": "!!"
+      }
+    },
+    {
+      "splitColumn": {
+        "inputHeader": "Actor Details String",
+        "newColumnHeaders": [
+          "Movie ID",
+          "Name",
+          "Bio",
+          "Birthday",
+          "Place of Birth",
+          "Headshot"
+        ],
+        "delimiter": "|"
+      }
+    },
+    {
+      "addColumn": {
+        "newColumnHeader": "slug",
+        "columnValue": "/actors/[[entityId]]"
+      }
+    }
+  ],
+  "mappings": [
+    {
+      "field": "c_movies",
+      "header": "meta.id",
+      "subfieldPath": []
+    },
+    {
+      "field": "c_birthPlace",
+      "header": "Place of Birth",
+      "subfieldPath": []
+    },
+    {
+      "field": "c_bio",
+      "header": "Bio",
+      "subfieldPath": []
+    },
+    {
+      "field": "c_birthDate",
+      "header": "Birthday",
+      "subfieldPath": []
+    },
+    {
+      "field": "entityId",
+      "header": "Movie ID",
+      "subfieldPath": []
+    },
+    {
+      "field": "headshot",
+      "header": "Headshot",
+      "subfieldPath": [
+        {
+          "name": "url"
+        }
+      ]
+    },
+    {
+      "field": "slug",
+      "header": "slug",
+      "subfieldPath": []
+    },
+    {
+      "field": "name",
+      "header": "Name",
+      "subfieldPath": []
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "$id": "19995",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_actors": [
+      "8691",
+      "10205"
+    ],
+    "c_backdropImage": {
+      "image": {
+        "height": 2160,
+        "sourceUrl": "https://image.tmdb.org/t/p/original/o0s4XsEDfDlvit5pDRKjzXR4pp2.jpg",
+        "thumbnails": [
+          {
+            "height": 2160,
+            "url": "http://a.mktgcdn.com/p-sandbox/UjU3-598k6PDeTO9XYDqywxKf0Tajt927FHGoUavOIc/3840x2160.jpg",
+            "width": 3840
+          },
+          {
+            "height": 1069,
+            "url": "http://a.mktgcdn.com/p-sandbox/UjU3-598k6PDeTO9XYDqywxKf0Tajt927FHGoUavOIc/1900x1069.jpg",
+            "width": 1900
+          },
+          {
+            "height": 348,
+            "url": "http://a.mktgcdn.com/p-sandbox/UjU3-598k6PDeTO9XYDqywxKf0Tajt927FHGoUavOIc/619x348.jpg",
+            "width": 619
+          },
+          {
+            "height": 338,
+            "url": "http://a.mktgcdn.com/p-sandbox/UjU3-598k6PDeTO9XYDqywxKf0Tajt927FHGoUavOIc/600x338.jpg",
+            "width": 600
+          },
+          {
+            "height": 110,
+            "url": "http://a.mktgcdn.com/p-sandbox/UjU3-598k6PDeTO9XYDqywxKf0Tajt927FHGoUavOIc/196x110.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/UjU3-598k6PDeTO9XYDqywxKf0Tajt927FHGoUavOIc/3840x2160.jpg",
+        "width": 3840
+      }
+    },
+    "c_genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "c_moviePoster": {
+      "image": {
+        "height": 3000,
+        "sourceUrl": "https://image.tmdb.org/t/p/original/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg",
+        "thumbnails": [
+          {
+            "height": 3000,
+            "url": "http://a.mktgcdn.com/p-sandbox/dxIIaeOebIQBpSfEPV1H3WWqg7UZgPZEJXDKOT2Wxck/2000x3000.jpg",
+            "width": 2000
+          },
+          {
+            "height": 1900,
+            "url": "http://a.mktgcdn.com/p-sandbox/dxIIaeOebIQBpSfEPV1H3WWqg7UZgPZEJXDKOT2Wxck/1267x1900.jpg",
+            "width": 1267
+          },
+          {
+            "height": 929,
+            "url": "http://a.mktgcdn.com/p-sandbox/dxIIaeOebIQBpSfEPV1H3WWqg7UZgPZEJXDKOT2Wxck/619x929.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/dxIIaeOebIQBpSfEPV1H3WWqg7UZgPZEJXDKOT2Wxck/300x450.jpg",
+            "width": 300
+          },
+          {
+            "height": 294,
+            "url": "http://a.mktgcdn.com/p-sandbox/dxIIaeOebIQBpSfEPV1H3WWqg7UZgPZEJXDKOT2Wxck/196x294.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/dxIIaeOebIQBpSfEPV1H3WWqg7UZgPZEJXDKOT2Wxck/2000x3000.jpg",
+        "width": 2000
+      }
+    },
+    "c_releaseDate": "2009-12-15",
+    "description": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
+    "name": "Avatar",
+    "slug": "/movie/[[entityId]]"
+  },
+  "entityType": "ce_movie",
+  "labels": []
+}

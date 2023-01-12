@@ -1,0 +1,45 @@
+{
+  "$id": "65731",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Samuel Henry John Worthington (born 2 August 1976) is a British\\-Australian actor. He is best known for playing Jake Sully in Avatar, Marcus Wright in Terminator Salvation, and Perseus in Clash of the Titans and its sequel Wrath of the Titans. He later took more dramatic roles, appearing in The Debt (2010), Everest (2015), Hacksaw Ridge (2016), The Shack (2017), Manhunt: Unabomber (2017), and Fractured (2019). On television, he appeared in his native Australia as Howard in Love My Way and as Phillip Schuler in the television drama mini\\-series Deadline Gallipoli, for which he was also an executive producer. He voiced the protagonist, Captain Alex Mason, in the video game Call of Duty: Black Ops (2010), as well as its sequels Call of Duty: Black Ops II (2012), and Call of Duty: Black Ops 4 (2018). In 2022, he starred in the true crime miniseries Under the Banner of Heaven. In 2004, Worthington received Australia\u0027s highest film award for his lead role in Somersault.",
+    "c_birthDate": "1976-08-02",
+    "c_birthPlace": "Godalming, Surrey, England, UK",
+    "c_movies": [
+      "76600"
+    ],
+    "headshot": {
+      "height": 2743,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//blKKsHlJIL9PmUQZB8f3YmMBW5Y.jpg",
+      "thumbnails": [
+        {
+          "height": 2743,
+          "url": "http://a.mktgcdn.com/p-sandbox/UB1lokpDTPnFkgrgxYr5iqRilPuZI4h2qfObGC7pWPA/1.0000/2743x2743.jpg",
+          "width": 2743
+        },
+        {
+          "height": 1900,
+          "url": "http://a.mktgcdn.com/p-sandbox/UB1lokpDTPnFkgrgxYr5iqRilPuZI4h2qfObGC7pWPA/1.0000/1900x1900.jpg",
+          "width": 1900
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/UB1lokpDTPnFkgrgxYr5iqRilPuZI4h2qfObGC7pWPA/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/UB1lokpDTPnFkgrgxYr5iqRilPuZI4h2qfObGC7pWPA/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/UB1lokpDTPnFkgrgxYr5iqRilPuZI4h2qfObGC7pWPA/1.0000/2743x2743.jpg",
+      "width": 2743
+    },
+    "name": "Sam Worthington",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}

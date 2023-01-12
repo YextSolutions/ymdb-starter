@@ -1,0 +1,88 @@
+{
+  "$id": "724495",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_actors": [
+      "19492",
+      "2286339",
+      "1360281"
+    ],
+    "c_backdropImage": {
+      "image": {
+        "height": 720,
+        "sourceUrl": "https://image.tmdb.org/t/p/original/gkseI3CUfQtMKX41XD4AxDzhQb7.jpg",
+        "thumbnails": [
+          {
+            "height": 720,
+            "url": "http://a.mktgcdn.com/p-sandbox/HNQ8obmVA-XXni6Pfi3USDfjs9TFesHLdC5ZlrqRowE/1280x720.jpg",
+            "width": 1280
+          },
+          {
+            "height": 348,
+            "url": "http://a.mktgcdn.com/p-sandbox/HNQ8obmVA-XXni6Pfi3USDfjs9TFesHLdC5ZlrqRowE/619x348.jpg",
+            "width": 619
+          },
+          {
+            "height": 338,
+            "url": "http://a.mktgcdn.com/p-sandbox/HNQ8obmVA-XXni6Pfi3USDfjs9TFesHLdC5ZlrqRowE/600x338.jpg",
+            "width": 600
+          },
+          {
+            "height": 110,
+            "url": "http://a.mktgcdn.com/p-sandbox/HNQ8obmVA-XXni6Pfi3USDfjs9TFesHLdC5ZlrqRowE/196x110.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/HNQ8obmVA-XXni6Pfi3USDfjs9TFesHLdC5ZlrqRowE/1280x720.jpg",
+        "width": 1280
+      }
+    },
+    "c_genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "c_moviePoster": {
+      "image": {
+        "height": 3000,
+        "sourceUrl": "https://image.tmdb.org/t/p/original/438QXt1E3WJWb3PqNniK0tAE5c1.jpg",
+        "thumbnails": [
+          {
+            "height": 3000,
+            "url": "http://a.mktgcdn.com/p-sandbox/HS_Ao26Pir5E6ab-NckpguNhNI-kS7xs4zbp_Mfh3gY/2000x3000.jpg",
+            "width": 2000
+          },
+          {
+            "height": 1900,
+            "url": "http://a.mktgcdn.com/p-sandbox/HS_Ao26Pir5E6ab-NckpguNhNI-kS7xs4zbp_Mfh3gY/1267x1900.jpg",
+            "width": 1267
+          },
+          {
+            "height": 929,
+            "url": "http://a.mktgcdn.com/p-sandbox/HS_Ao26Pir5E6ab-NckpguNhNI-kS7xs4zbp_Mfh3gY/619x929.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/HS_Ao26Pir5E6ab-NckpguNhNI-kS7xs4zbp_Mfh3gY/300x450.jpg",
+            "width": 300
+          },
+          {
+            "height": 294,
+            "url": "http://a.mktgcdn.com/p-sandbox/HS_Ao26Pir5E6ab-NckpguNhNI-kS7xs4zbp_Mfh3gY/196x294.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/HS_Ao26Pir5E6ab-NckpguNhNI-kS7xs4zbp_Mfh3gY/2000x3000.jpg",
+        "width": 2000
+      }
+    },
+    "c_releaseDate": "2022-09-15",
+    "description": "The story of the Agojie, the all-female unit of warriors who protected the African Kingdom of Dahomey in the 1800s with skills and a fierceness unlike anything the world has ever seen, and General Nanisca as she trains the next generation of recruits and readies them for battle against an enemy determined to destroy their way of life.",
+    "name": "The Woman King",
+    "slug": "/movie/[[entityId]]"
+  },
+  "entityType": "ce_movie",
+  "labels": []
+}

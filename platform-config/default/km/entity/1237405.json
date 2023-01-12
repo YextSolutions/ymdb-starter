@@ -1,0 +1,40 @@
+{
+  "$id": "1237405",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Christian Lee Navarro (born August 21, 1991) is an American actor best known for playing Tony Padilla in the Netflix series 13 Reasons Why.",
+    "c_birthDate": "1991-08-21",
+    "c_birthPlace": "The Bronx, New York City, New York, USA",
+    "c_movies": [
+      "676547"
+    ],
+    "headshot": {
+      "height": 451,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//3GbOZdjoSVE2dkti9MKx44HidRi.jpg",
+      "thumbnails": [
+        {
+          "height": 451,
+          "url": "http://a.mktgcdn.com/p-sandbox/gIkNnSOQAqaPcuP0ZLjlf4jifJUY_TWJf88fQZhDK_Q/1.0000/451x451.jpg",
+          "width": 451
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/gIkNnSOQAqaPcuP0ZLjlf4jifJUY_TWJf88fQZhDK_Q/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/gIkNnSOQAqaPcuP0ZLjlf4jifJUY_TWJf88fQZhDK_Q/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/gIkNnSOQAqaPcuP0ZLjlf4jifJUY_TWJf88fQZhDK_Q/1.0000/451x451.jpg",
+      "width": 451
+    },
+    "name": "Christian Navarro",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}

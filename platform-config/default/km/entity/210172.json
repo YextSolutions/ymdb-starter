@@ -1,0 +1,45 @@
+{
+  "$id": "210172",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Harvey Guillén (born May 3, 1990) is an American actor.",
+    "c_birthDate": "1990-05-03",
+    "c_birthPlace": "Orange County, California, USA",
+    "c_movies": [
+      "315162"
+    ],
+    "headshot": {
+      "height": 2325,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//yiNBonobPwqMVweB02JWufzp2l9.jpg",
+      "thumbnails": [
+        {
+          "height": 2325,
+          "url": "http://a.mktgcdn.com/p-sandbox/UjlFJfSWgcxraCIOvrFVKoiVm2puesAma_G8kSfsmNI/1.0000/2325x2325.jpg",
+          "width": 2325
+        },
+        {
+          "height": 1900,
+          "url": "http://a.mktgcdn.com/p-sandbox/UjlFJfSWgcxraCIOvrFVKoiVm2puesAma_G8kSfsmNI/1.0000/1900x1900.jpg",
+          "width": 1900
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/UjlFJfSWgcxraCIOvrFVKoiVm2puesAma_G8kSfsmNI/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/UjlFJfSWgcxraCIOvrFVKoiVm2puesAma_G8kSfsmNI/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/UjlFJfSWgcxraCIOvrFVKoiVm2puesAma_G8kSfsmNI/1.0000/2325x2325.jpg",
+      "width": 2325
+    },
+    "name": "Harvey Guillén",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}

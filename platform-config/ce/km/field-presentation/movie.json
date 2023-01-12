@@ -1,0 +1,73 @@
+{
+  "$id": "ce_movie",
+  "$schema": "https://schema.yext.com/config/km/field-presentation/v1",
+  "entityType": "ce_movie",
+  "displayName": "Movie",
+  "presentationEntries": [
+    {
+      "displayName": "Content",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Core Information",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "entityId",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "name",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "c_moviePoster",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "c_backdropImage",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "c_runningTime",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "c_genres",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "description",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "c_releaseDate",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "slug",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "c_actors"
+        }
+      ]
+    },
+    {
+      "displayName": "Other",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Internal Use Only",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "folder"
+        },
+        {
+          "id": "labels"
+        }
+      ]
+    }
+  ]
+}

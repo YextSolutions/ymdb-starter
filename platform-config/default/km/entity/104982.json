@@ -1,0 +1,40 @@
+{
+  "$id": "104982",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Ofelia Medina (born April 4, 1950) is a Mexican actress, singer and screenwriter of Mexican films. She made her film debut in Mexico in 1968 with the film La paz and in Hollywood with The Big Fix ten years later. In 1977 she played a hunchback in the telenovela Rina. She portrayed Frida Kahlo in Paul Leduc\u0027s film about the artist in 1984. In Canada, Medina was nominated for the Genie Award for her work in Diplomatic Immunity in 1991. Ofelia Madine has also played in various theatres worldwide. Since 2000 Ofelia played Frida Kahlo in the play Cada quien su Frida. In 2007 she came to Denmark, playing in Århus, Copenhagen and Odense at the gallery of Jens Galschiøt.",
+    "c_birthDate": "1950-04-04",
+    "c_birthPlace": "Mérida - Yucatán - Mexico",
+    "c_movies": [
+      "943221"
+    ],
+    "headshot": {
+      "height": 750,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//p58WLbFXBPUPbMu64UdJuOTwTYD.jpg",
+      "thumbnails": [
+        {
+          "height": 750,
+          "url": "http://a.mktgcdn.com/p-sandbox/RqnPgvuO5PoaFmpYA_XYCnE9_pS9ziT-TU5hvbJ9-OQ/1.0000/750x750.jpg",
+          "width": 750
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/RqnPgvuO5PoaFmpYA_XYCnE9_pS9ziT-TU5hvbJ9-OQ/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/RqnPgvuO5PoaFmpYA_XYCnE9_pS9ziT-TU5hvbJ9-OQ/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/RqnPgvuO5PoaFmpYA_XYCnE9_pS9ziT-TU5hvbJ9-OQ/1.0000/750x750.jpg",
+      "width": 750
+    },
+    "name": "Ofelia Medina",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}

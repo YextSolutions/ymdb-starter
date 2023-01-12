@@ -1,0 +1,40 @@
+{
+  "$id": "1998733",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Jaboukie Young\\-White is an American stand up comedian and writer. He is currently a correspondent for The Daily Show and a writer for the Netflix original animated series Big Mouth.",
+    "c_birthDate": "1994-07-24",
+    "c_birthPlace": "Chicago, Illinois, USA",
+    "c_movies": [
+      "877269"
+    ],
+    "headshot": {
+      "height": 908,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//8OYI8OqsMUpBZica4lM2odjgVH6.jpg",
+      "thumbnails": [
+        {
+          "height": 908,
+          "url": "http://a.mktgcdn.com/p-sandbox/9ftsg6cBLP0jL0cxLBPL_gAMQEGkZai1x5Mexz1GLL8/1.0000/908x908.jpg",
+          "width": 908
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/9ftsg6cBLP0jL0cxLBPL_gAMQEGkZai1x5Mexz1GLL8/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/9ftsg6cBLP0jL0cxLBPL_gAMQEGkZai1x5Mexz1GLL8/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/9ftsg6cBLP0jL0cxLBPL_gAMQEGkZai1x5Mexz1GLL8/1.0000/908x908.jpg",
+      "width": 908
+    },
+    "name": "Jaboukie Young-White",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}

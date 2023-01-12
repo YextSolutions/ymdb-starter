@@ -1,0 +1,93 @@
+{
+  "$id": "661374",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_actors": [
+      "8784",
+      "819",
+      "1005852"
+    ],
+    "c_backdropImage": {
+      "image": {
+        "height": 2160,
+        "sourceUrl": "https://image.tmdb.org/t/p/original/dKqa850uvbNSCaQCV4Im1XlzEtQ.jpg",
+        "thumbnails": [
+          {
+            "height": 2160,
+            "url": "http://a.mktgcdn.com/p-sandbox/y3VSQXnLLg-5fHRgmmddnFuWFuPGBSN42otSWL0zo8k/3840x2160.jpg",
+            "width": 3840
+          },
+          {
+            "height": 1069,
+            "url": "http://a.mktgcdn.com/p-sandbox/y3VSQXnLLg-5fHRgmmddnFuWFuPGBSN42otSWL0zo8k/1900x1069.jpg",
+            "width": 1900
+          },
+          {
+            "height": 348,
+            "url": "http://a.mktgcdn.com/p-sandbox/y3VSQXnLLg-5fHRgmmddnFuWFuPGBSN42otSWL0zo8k/619x348.jpg",
+            "width": 619
+          },
+          {
+            "height": 338,
+            "url": "http://a.mktgcdn.com/p-sandbox/y3VSQXnLLg-5fHRgmmddnFuWFuPGBSN42otSWL0zo8k/600x338.jpg",
+            "width": 600
+          },
+          {
+            "height": 110,
+            "url": "http://a.mktgcdn.com/p-sandbox/y3VSQXnLLg-5fHRgmmddnFuWFuPGBSN42otSWL0zo8k/196x110.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/y3VSQXnLLg-5fHRgmmddnFuWFuPGBSN42otSWL0zo8k/3840x2160.jpg",
+        "width": 3840
+      }
+    },
+    "c_genres": [
+      "Mystery",
+      "Thriller",
+      "Comedy"
+    ],
+    "c_moviePoster": {
+      "image": {
+        "height": 2222,
+        "sourceUrl": "https://image.tmdb.org/t/p/original/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg",
+        "thumbnails": [
+          {
+            "height": 2222,
+            "url": "http://a.mktgcdn.com/p-sandbox/oLLHfJL79xwmsLpQE8yyt99j6OHRBAz-Vkg1zVvT7cQ/1482x2222.jpg",
+            "width": 1482
+          },
+          {
+            "height": 1900,
+            "url": "http://a.mktgcdn.com/p-sandbox/oLLHfJL79xwmsLpQE8yyt99j6OHRBAz-Vkg1zVvT7cQ/1267x1900.jpg",
+            "width": 1267
+          },
+          {
+            "height": 928,
+            "url": "http://a.mktgcdn.com/p-sandbox/oLLHfJL79xwmsLpQE8yyt99j6OHRBAz-Vkg1zVvT7cQ/619x928.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/oLLHfJL79xwmsLpQE8yyt99j6OHRBAz-Vkg1zVvT7cQ/300x450.jpg",
+            "width": 300
+          },
+          {
+            "height": 294,
+            "url": "http://a.mktgcdn.com/p-sandbox/oLLHfJL79xwmsLpQE8yyt99j6OHRBAz-Vkg1zVvT7cQ/196x294.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/oLLHfJL79xwmsLpQE8yyt99j6OHRBAz-Vkg1zVvT7cQ/1482x2222.jpg",
+        "width": 1482
+      }
+    },
+    "c_releaseDate": "2022-11-23",
+    "description": "World-famous detective Benoit Blanc heads to Greece to peel back the layers of a mystery surrounding a tech billionaire and his eclectic crew of friends.",
+    "name": "Glass Onion: A Knives Out Mystery",
+    "slug": "/movie/[[entityId]]"
+  },
+  "entityType": "ce_movie",
+  "labels": []
+}

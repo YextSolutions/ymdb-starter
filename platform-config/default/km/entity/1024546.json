@@ -1,0 +1,92 @@
+{
+  "$id": "1024546",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_actors": [
+      "62",
+      "117525",
+      "58058"
+    ],
+    "c_backdropImage": {
+      "image": {
+        "height": 1080,
+        "sourceUrl": "https://image.tmdb.org/t/p/original/6YRQ8l93ZEs6x4rZojWoHIWdguK.jpg",
+        "thumbnails": [
+          {
+            "height": 1080,
+            "url": "http://a.mktgcdn.com/p-sandbox/GZTIwIF8odx1sA_t0YLGgzZBUl-Dqp4nKxvHkkuwaQ0/1920x1080.jpg",
+            "width": 1920
+          },
+          {
+            "height": 1069,
+            "url": "http://a.mktgcdn.com/p-sandbox/GZTIwIF8odx1sA_t0YLGgzZBUl-Dqp4nKxvHkkuwaQ0/1900x1069.jpg",
+            "width": 1900
+          },
+          {
+            "height": 348,
+            "url": "http://a.mktgcdn.com/p-sandbox/GZTIwIF8odx1sA_t0YLGgzZBUl-Dqp4nKxvHkkuwaQ0/619x348.jpg",
+            "width": 619
+          },
+          {
+            "height": 338,
+            "url": "http://a.mktgcdn.com/p-sandbox/GZTIwIF8odx1sA_t0YLGgzZBUl-Dqp4nKxvHkkuwaQ0/600x338.jpg",
+            "width": 600
+          },
+          {
+            "height": 110,
+            "url": "http://a.mktgcdn.com/p-sandbox/GZTIwIF8odx1sA_t0YLGgzZBUl-Dqp4nKxvHkkuwaQ0/196x110.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/GZTIwIF8odx1sA_t0YLGgzZBUl-Dqp4nKxvHkkuwaQ0/1920x1080.jpg",
+        "width": 1920
+      }
+    },
+    "c_genres": [
+      "Action",
+      "Crime"
+    ],
+    "c_moviePoster": {
+      "image": {
+        "height": 3000,
+        "sourceUrl": "https://image.tmdb.org/t/p/original/2wj5iUJ2B5AQ1lFctJgUrHHsp9B.jpg",
+        "thumbnails": [
+          {
+            "height": 3000,
+            "url": "http://a.mktgcdn.com/p-sandbox/Rs2yt2ABFbrE9oRT7DVh75aslwpggmO3RYA2MtKXxXg/2000x3000.jpg",
+            "width": 2000
+          },
+          {
+            "height": 1900,
+            "url": "http://a.mktgcdn.com/p-sandbox/Rs2yt2ABFbrE9oRT7DVh75aslwpggmO3RYA2MtKXxXg/1267x1900.jpg",
+            "width": 1267
+          },
+          {
+            "height": 929,
+            "url": "http://a.mktgcdn.com/p-sandbox/Rs2yt2ABFbrE9oRT7DVh75aslwpggmO3RYA2MtKXxXg/619x929.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p-sandbox/Rs2yt2ABFbrE9oRT7DVh75aslwpggmO3RYA2MtKXxXg/300x450.jpg",
+            "width": 300
+          },
+          {
+            "height": 294,
+            "url": "http://a.mktgcdn.com/p-sandbox/Rs2yt2ABFbrE9oRT7DVh75aslwpggmO3RYA2MtKXxXg/196x294.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p-sandbox/Rs2yt2ABFbrE9oRT7DVh75aslwpggmO3RYA2MtKXxXg/2000x3000.jpg",
+        "width": 2000
+      }
+    },
+    "c_releaseDate": "2022-10-21",
+    "description": "As Los Angeles prepares for Halloween, mask-wearing armed robbers critically wound detective James Knight’s partner in a shootout following a heist. With Knight in hot pursuit, the bandits flee L.A. for New York, where the detective’s dark past collides with his present case and threatens to tear his world apart…unless redemption can claim Knight first.",
+    "name": "Detective Knight: Rogue",
+    "slug": "/movie/[[entityId]]"
+  },
+  "entityType": "ce_movie",
+  "labels": []
+}

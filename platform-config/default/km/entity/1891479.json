@@ -1,0 +1,40 @@
+{
+  "$id": "1891479",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Putri Marino is an Indonesian film actress.",
+    "c_birthDate": "1993-08-04",
+    "c_birthPlace": "Denpasar, Bali, Indonesia",
+    "c_movies": [
+      "683328"
+    ],
+    "headshot": {
+      "height": 493,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//2NXQ4fOQDWn53HAbGTJcvHRZ4li.jpg",
+      "thumbnails": [
+        {
+          "height": 493,
+          "url": "http://a.mktgcdn.com/p-sandbox/9gBtHp_Z0TZl-Fo7olOLewOf5qDDwOAEGA_fsksvW-Q/1.0000/493x493.jpg",
+          "width": 493
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/9gBtHp_Z0TZl-Fo7olOLewOf5qDDwOAEGA_fsksvW-Q/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/9gBtHp_Z0TZl-Fo7olOLewOf5qDDwOAEGA_fsksvW-Q/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/9gBtHp_Z0TZl-Fo7olOLewOf5qDDwOAEGA_fsksvW-Q/1.0000/493x493.jpg",
+      "width": 493
+    },
+    "name": "Putri Marino",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}

@@ -1,0 +1,40 @@
+{
+  "$id": "1083010",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Letitia Michelle Wright (born 31 October 1993) is a Guyanese\\-British actress. Beginning her professional career in 2011, she has played roles in several British TV series, including Top Boy (2011), Coming Up (2013), Chasing Shadows (2014), Humans (2016), the Doctor Who episode \"Face the Raven\" (2015) and the Black Mirror episode \"Black Museum\" (2017); for the latter, she received a Primetime Emmy Award nomination for Outstanding Supporting Actress in a Limited Series or Movie. The British Academy of Film and Television Arts named Wright among the 2015 group of BAFTA Breakthrough Brits for her role in the award\\-winning film Urban Hymn (2015). In 2018, she achieved global recognition for her portrayal of Shuri in the Marvel Cinematic Universe film Black Panther. She reprised the role in Avengers: Infinity War (2018), Avengers: Endgame (2019) and Black Panther: Wakanda Forever (2022). In 2019, she received the BAFTA Rising Star Award. Description above is from the Wikipedia article Letitia Wright, licensed under CC\\-BY\\-SA, full list of contributors on Wikipedia.",
+    "c_birthDate": "1993-10-31",
+    "c_birthPlace": "Georgetown, Guyana",
+    "c_movies": [
+      "505642"
+    ],
+    "headshot": {
+      "height": 633,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//i6fbYNn5jWA6swWtaqgzaj02RMc.jpg",
+      "thumbnails": [
+        {
+          "height": 633,
+          "url": "http://a.mktgcdn.com/p-sandbox/QhgKf58y_KnsS_CcvZdzbTlCw8EUpZbQT106rFKXE70/1.0000/633x633.jpg",
+          "width": 633
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/QhgKf58y_KnsS_CcvZdzbTlCw8EUpZbQT106rFKXE70/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/QhgKf58y_KnsS_CcvZdzbTlCw8EUpZbQT106rFKXE70/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/QhgKf58y_KnsS_CcvZdzbTlCw8EUpZbQT106rFKXE70/1.0000/633x633.jpg",
+      "width": 633
+    },
+    "name": "Letitia Wright",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}

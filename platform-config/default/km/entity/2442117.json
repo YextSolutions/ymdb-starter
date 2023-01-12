@@ -1,0 +1,39 @@
+{
+  "$id": "2442117",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_birthDate": "2009-09-26",
+    "c_birthPlace": "Dublin, Ireland",
+    "c_movies": [
+      "668482"
+    ],
+    "headshot": {
+      "height": 1500,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//7pSGDha5INbiFQilQRmWgiJX3z5.jpg",
+      "thumbnails": [
+        {
+          "height": 1500,
+          "url": "http://a.mktgcdn.com/p-sandbox/6weHKnPKbqfmDJzVVJzbvjeK0Ywokb5pZpjhmCtu2Kc/1.0000/1500x1500.jpg",
+          "width": 1500
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/6weHKnPKbqfmDJzVVJzbvjeK0Ywokb5pZpjhmCtu2Kc/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/6weHKnPKbqfmDJzVVJzbvjeK0Ywokb5pZpjhmCtu2Kc/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/6weHKnPKbqfmDJzVVJzbvjeK0Ywokb5pZpjhmCtu2Kc/1.0000/1500x1500.jpg",
+      "width": 1500
+    },
+    "name": "Alisha Weir",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}

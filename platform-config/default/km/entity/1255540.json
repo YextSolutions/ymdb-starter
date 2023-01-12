@@ -1,0 +1,45 @@
+{
+  "$id": "1255540",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Allison Howell Williams (born April 13, 1988) is an American actress. Following several minor roles in television, she played Marnie Michaels in the HBO comedy\\-drama series Girls (2012–2017), which earned her a Critics\u0027 Choice Award nomination, and the title role in Peter Pan Live! (2014). She rose to widespread recognition for starring as Rose Armitage in the horror film Get Out (2017), for which she received a Screen Actors Guild Award nomination. She subsequently appeared as Kit Snicket in the series A Series of Unfortunate Events (2017–2019).",
+    "c_birthDate": "1988-04-13",
+    "c_birthPlace": "New Canaan, Connecticut, USA",
+    "c_movies": [
+      "536554"
+    ],
+    "headshot": {
+      "height": 2685,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//7sbW6EhAjBmpJ7ZEFlHRlEf6qCQ.jpg",
+      "thumbnails": [
+        {
+          "height": 2685,
+          "url": "http://a.mktgcdn.com/p-sandbox/BgoIYwqYgDdsFz7933PpSraLK2nOJ3Xo3rImf1QoGrE/1.0000/2685x2685.jpg",
+          "width": 2685
+        },
+        {
+          "height": 1900,
+          "url": "http://a.mktgcdn.com/p-sandbox/BgoIYwqYgDdsFz7933PpSraLK2nOJ3Xo3rImf1QoGrE/1.0000/1900x1900.jpg",
+          "width": 1900
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/BgoIYwqYgDdsFz7933PpSraLK2nOJ3Xo3rImf1QoGrE/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/BgoIYwqYgDdsFz7933PpSraLK2nOJ3Xo3rImf1QoGrE/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/BgoIYwqYgDdsFz7933PpSraLK2nOJ3Xo3rImf1QoGrE/1.0000/2685x2685.jpg",
+      "width": 2685
+    },
+    "name": "Allison Williams",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}

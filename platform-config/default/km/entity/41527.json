@@ -1,0 +1,39 @@
+{
+  "$id": "41527",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_birthDate": "1948-12-01",
+    "c_birthPlace": "Asmara",
+    "c_movies": [
+      "873126"
+    ],
+    "headshot": {
+      "height": 745,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//gRS90yn20ZMlq4pvVQjtUM5DLqN.jpg",
+      "thumbnails": [
+        {
+          "height": 745,
+          "url": "http://a.mktgcdn.com/p-sandbox/y1cNc1SLYB3QyqgiIFA5YVNNQ-uGgX4vankDF5MAT1k/1.0000/745x745.jpg",
+          "width": 745
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/y1cNc1SLYB3QyqgiIFA5YVNNQ-uGgX4vankDF5MAT1k/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/y1cNc1SLYB3QyqgiIFA5YVNNQ-uGgX4vankDF5MAT1k/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/y1cNc1SLYB3QyqgiIFA5YVNNQ-uGgX4vankDF5MAT1k/1.0000/745x745.jpg",
+      "width": 745
+    },
+    "name": "Remo Girone",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}

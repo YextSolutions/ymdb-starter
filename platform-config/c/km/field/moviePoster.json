@@ -1,0 +1,14 @@
+{
+  "$id": "c_moviePoster",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Movie Poster",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "imageType": {
+      "unconstrainedAspectRatioAllowed": true,
+      "noAllowedAspectRatios": true
+    }
+  },
+  "typeId": "image"
+}

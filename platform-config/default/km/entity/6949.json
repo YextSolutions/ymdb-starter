@@ -1,0 +1,40 @@
+{
+  "$id": "6949",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "An American actor, producer, director, and fashion designer. Over the last 30 years of his career, Malkovich has appeared in more than 70 motion pictures. For his roles in Places in the Heart and In the Line of Fire, he received Academy Award nominations. He has also appeared in well\\-received films such as Empire of the Sun, The Killing Fields, Dangerous Liaisons, Of Mice and Men, Being John Malkovich, Burn After Reading, RED, and Warm Bodies, as well as producing numerous films, including Juno and The Perks of Being a Wallflower. Malkovich attended exclusively Illinois schools throughout his childhood and into adulthood, building a community of like\\-minded performers such as Joan Allen, Gary Sinise and Glenne Headly, all of whom co\\-founded the Steppenwolf Theatre Company in 1976. After appearing in numerous stage productions, Malkovich began acting in feature films in the late 1970s, garnering critical acclaim for his numerous dramatic and comedic roles in films such as Dangerous Liasions, Of Mice and Men, Being John Malkovich, and Burn After Reading. In keeping with his renaissance\\-man image, he created his own fashion company, Mrs. Mudd, in 2002. Malkovich continues to act, direct and produce numerous movies per year, and is considered one of the most influential voices in modern cinema.",
+    "c_birthDate": "1953-12-09",
+    "c_birthPlace": "Christopher, Illinois, USA",
+    "c_movies": [
+      "740952"
+    ],
+    "headshot": {
+      "height": 594,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//8YfVmWi9Z1iyX9Oc90yd9dbhSfL.jpg",
+      "thumbnails": [
+        {
+          "height": 594,
+          "url": "http://a.mktgcdn.com/p-sandbox/FIWgpxJECTEFqC6t7thmUWcRSUOWWkx1AsIHQZGxy8o/1.0000/594x594.jpg",
+          "width": 594
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/FIWgpxJECTEFqC6t7thmUWcRSUOWWkx1AsIHQZGxy8o/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/FIWgpxJECTEFqC6t7thmUWcRSUOWWkx1AsIHQZGxy8o/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/FIWgpxJECTEFqC6t7thmUWcRSUOWWkx1AsIHQZGxy8o/1.0000/594x594.jpg",
+      "width": 594
+    },
+    "name": "John Malkovich",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}

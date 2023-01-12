@@ -1,0 +1,40 @@
+{
+  "$id": "2286339",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Thuso Nokwanda Mbedu is a South African actress. She was nominated for an International Emmy for her role in the drama series Is\u0027Thunzi. She appeared on the 2018 Forbes Africa 30 under 30 list. In 2021, she starred in the Amazon Video limited series The Underground Railroad.",
+    "c_birthDate": "1991-07-08",
+    "c_birthPlace": "Pietermaritzburg, South Africa",
+    "c_movies": [
+      "724495"
+    ],
+    "headshot": {
+      "height": 1134,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//v2Fw1NlHZ1sPS97DG2aDnreZwLR.jpg",
+      "thumbnails": [
+        {
+          "height": 1134,
+          "url": "http://a.mktgcdn.com/p-sandbox/zYZ3szm9JPifsb4C8idPRxdi8ik2wGE6I0AsjOh8EAo/1.0000/1134x1134.jpg",
+          "width": 1134
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/zYZ3szm9JPifsb4C8idPRxdi8ik2wGE6I0AsjOh8EAo/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/zYZ3szm9JPifsb4C8idPRxdi8ik2wGE6I0AsjOh8EAo/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/zYZ3szm9JPifsb4C8idPRxdi8ik2wGE6I0AsjOh8EAo/1.0000/1134x1134.jpg",
+      "width": 1134
+    },
+    "name": "Thuso Mbedu",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}

@@ -1,0 +1,11 @@
+{
+  "$id": "c_birthDate",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Birth Date",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "dateType": {}
+  },
+  "typeId": "date"
+}

@@ -1,0 +1,38 @@
+{
+  "$id": "1916568",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Lutesha was born in Jakarta, Indonesia on June 23, 1994, and is an Indonesian actress and model. She has previously starred in many video clips and is a known model.",
+    "c_movies": [
+      "683328"
+    ],
+    "headshot": {
+      "height": 1238,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//aSfXpXNbYlYh0tELg3kSK6BJPyl.jpg",
+      "thumbnails": [
+        {
+          "height": 1238,
+          "url": "http://a.mktgcdn.com/p-sandbox/Cw2Ngjs1cLmcbeXZPeaTBCi7Blmdq8_CV68CDqIuZ_o/1.0000/1238x1238.jpg",
+          "width": 1238
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/Cw2Ngjs1cLmcbeXZPeaTBCi7Blmdq8_CV68CDqIuZ_o/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/Cw2Ngjs1cLmcbeXZPeaTBCi7Blmdq8_CV68CDqIuZ_o/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/Cw2Ngjs1cLmcbeXZPeaTBCi7Blmdq8_CV68CDqIuZ_o/1.0000/1238x1238.jpg",
+      "width": 1238
+    },
+    "name": "Lutesha",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}

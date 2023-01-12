@@ -1,0 +1,40 @@
+{
+  "$id": "62",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Walter Bruce Willis (born March 19, 1955) is a retired American actor. His career began on the off\\-Broadway stage in the 1970s. He achieved fame with a leading role on the comedy\\-drama series Moonlighting (1985–1989) and has since appeared in over 70 films, gaining widespread recognition as an action hero after his portrayal of John McClane in the Die Hard franchise (1988–2013) and other subsequent roles. Willis\u0027s other credits include The Last Boy Scout (1991), Pulp Fiction (1994), 12 Monkeys (1995), Last Man Standing (1996), The Fifth Element (1997), Armageddon (1998), The Sixth Sense (1999), Hart\u0027s War (2002), Tears of the Sun (2003), Hostage (2005), Lucky Number Slevin (2006), Surrogates (2009), Moonrise Kingdom (2012), Rock the Kasbah (2015) and Motherless Brooklyn (2019). As a singer, Willis released his debut album The Return of Bruno in 1987, followed by two more successful albums in 1989 and 2001. He made his Broadway debut in the stage adaptation of Misery in 2015. Willis has received numerous accolades during his career, including a Golden Globe, two Primetime Emmy Awards, and two People\u0027s Choice Awards. He received a star on the Hollywood Walk of Fame in 2006. In March 2022, Willis announced that he was retiring from acting after being diagnosed with aphasia, which affects his ability to communicate.",
+    "c_birthDate": "1955-03-19",
+    "c_birthPlace": "Idar-Oberstein, Germany",
+    "c_movies": [
+      "1024546"
+    ],
+    "headshot": {
+      "height": 1800,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//caX3KtMU42EP3VLRFFBwqIIrch5.jpg",
+      "thumbnails": [
+        {
+          "height": 1800,
+          "url": "http://a.mktgcdn.com/p-sandbox/gdY-a4LJzrJyw14oYvDaIqLXLcZyU2u86N0q0HQVm2A/1.0000/1800x1800.jpg",
+          "width": 1800
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/gdY-a4LJzrJyw14oYvDaIqLXLcZyU2u86N0q0HQVm2A/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/gdY-a4LJzrJyw14oYvDaIqLXLcZyU2u86N0q0HQVm2A/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/gdY-a4LJzrJyw14oYvDaIqLXLcZyU2u86N0q0HQVm2A/1.0000/1800x1800.jpg",
+      "width": 1800
+    },
+    "name": "Bruce Willis",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}

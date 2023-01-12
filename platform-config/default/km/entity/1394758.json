@@ -1,0 +1,40 @@
+{
+  "$id": "1394758",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_bio": "Ine Marie Wilmann is a critically acclaimed Norwegian actress best known for her challenging and complex roles.",
+    "c_birthDate": "1985-02-18",
+    "c_birthPlace": "Norway",
+    "c_movies": [
+      "736526"
+    ],
+    "headshot": {
+      "height": 1440,
+      "sourceUrl": "https://image.tmdb.org/t/p/original//bu9JEeHHOl9kHGXzxVsNf8B4FDm.jpg",
+      "thumbnails": [
+        {
+          "height": 1440,
+          "url": "http://a.mktgcdn.com/p-sandbox/5ptEmCTotE435769JeKtERmo9tAUTLD0FrLGZnPydEA/1.0000/1440x1440.jpg",
+          "width": 1440
+        },
+        {
+          "height": 150,
+          "url": "http://a.mktgcdn.com/p-sandbox/5ptEmCTotE435769JeKtERmo9tAUTLD0FrLGZnPydEA/1.0000/150x150.jpg",
+          "width": 150
+        },
+        {
+          "height": 94,
+          "url": "http://a.mktgcdn.com/p-sandbox/5ptEmCTotE435769JeKtERmo9tAUTLD0FrLGZnPydEA/1.0000/94x94.jpg",
+          "width": 94
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p-sandbox/5ptEmCTotE435769JeKtERmo9tAUTLD0FrLGZnPydEA/1.0000/1440x1440.jpg",
+      "width": 1440
+    },
+    "name": "Ine Marie Wilmann",
+    "slug": "/actors/[[entityId]]"
+  },
+  "entityType": "ce_actor",
+  "labels": []
+}
