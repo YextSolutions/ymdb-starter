@@ -14,7 +14,7 @@ type PageLayoutProps = {
 };
 
 const searcher = provideHeadless({
-  apiKey: "API_KEY_HERE",
+  apiKey: "b115c61363d80daac5e8a1db500b4549",
   experienceKey: "ymdb",
   locale: "en",
   endpoints: SandboxEndpoints,
