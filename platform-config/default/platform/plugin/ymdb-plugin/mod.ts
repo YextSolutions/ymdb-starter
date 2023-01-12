@@ -1,7 +1,6 @@
 import { ActorDetails, WebhookPayload } from "./types.ts";
 
 declare const MOVIE_DB_API_KEY: string;
-declare const SLACK_WEBHOOK_URL: string;
 
 const genres: Record<string, string> = {
   "28": "Action",
@@ -77,28 +76,4 @@ const getActorDetails = async (id: string): Promise<ActorDetails> => {
   });
 
   return detailsResp.json();
-};
-
-await getActorsForMovieId("76600");
-
-export const handleWebhook = async (event: WebhookPayload) => {
-  const { entityId, meta, changedFields, primaryProfile } = event;
-
-  await fetch(SLACK_WEBHOOK_URL, {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-    },
-    body: JSON.stringify({
-      text: `Entity ${entityId} was ${
-        meta.eventType === "ENTITY_CREATED" ? "created" : "updated"
-      }. Changed fields: ${changedFields.fieldNames.join(
-        ", "
-      )} See details here: https://sandbox.yext.com/s/3191694/entity/edit3?entityIds=${
-        primaryProfile.meta.uid
-      }`,
-    }),
-  }).catch((err) => {
-    console.log(err.message);
-  });
 };
