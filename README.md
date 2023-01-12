@@ -1,6 +1,6 @@
-# Pages Empty Starter
+# YMDB Starter
 
-This repository provides an empty starter template for Yext Pages. This starter is recommended if you want to build from scratch or are following a track that requires the empty starter.
+This repository provides a starter for building an IMDB clone with Yext Pages and Search. See the section on adding more data if you would like to add more Movies and Actors to your Knowledge Graph and Search Experience.
 
 ## Getting Started
 
@@ -25,7 +25,6 @@ git clone https://github.com/yext/empty-starter
 cd empty-starter
 npm install
 ```
-
 
 ### Recommended Development Flow
 
@@ -104,7 +103,7 @@ This is where all of your custom components _may_ live. This folder is not requi
 
 #### templates
 
-Required. This is where your actual templates live. There are effectively two types of components:
+Required. This is where your actual templates live. There are effectively two types of `components:
 
 1. stream-based templates: those that have an exported `config`
 1. static templates: those that don't have an exported `config`.
@@ -129,3 +128,47 @@ The rest of the files are basic config setup common to many other React projects
 1. ESLint - catches errors in your code
 1. Prettier - formats your code (you can add .prettierrc to override any default settings)
 1. TypeScript - adds typing to Javascript for a better developer experience
+
+## Adding More Data to Your Account
+
+Assuming that you uploaded everything in the `platform-config` folder to your account with `yext pages new`, you will see two connectors in your account: Get Movies and Get Actors for Movies. Both use the Movie DB to fetch data and require and API Key. If you want to use either connector to add more entities, sign up for a free account and get an API Key [here](https://developers.themoviedb.org/3/getting-started/introduction).
+
+### Get Movies
+
+This connector pulls in movies from the The Movie DB Discover API. To run it, follow these steps:
+
+1. Navigate to Knowledge Graph > Connectors within your Yext Account. Click on the Get Movies Connector.
+2. Click Edit Configuration. In step 2, add API Key as the authentication method. Here, add `api_key` as the key and your Movie DB API Key as the value.
+3. (Optional) Add other [query parameters](https://developers.themoviedb.org/3/discover/movie-discover) such as a specific release year or language.
+4. (Optional) Add pagination settings to grab multiple pages of movies.
+5. Save your connector and run it!
+
+### Get Actors for Movies
+
+This connector iterates on all the movies in the Knowledge Graph, creates the top 3 actors for each movie, and links the movies and actors together. It relies on some functions in a plugin that has already been added to your account. However, you will need to edit some configuration files in the Admin Console to add your Movie DB API key to the existing function. To run this connector, follow these steps.
+
+1. Navigate to the Admin Console in your account. Navigate to the `_resource.json` file in the `ymdb-plugin`: 
+
+```
+/
+└───answers
+└───km
+└───pages
+└───platform
+│   │   account-features.json
+│   └───plugin
+|       └───ymdb-plugin 
+│           │   _resource.json
+│           │   mod.ts
+│           │   types.ts
+```
+2. Add your Movie DB API Key as the `MOVIE_DB_API_KEY`. Click Apply after you make this change.
+3. Navigate to the Developer Console in your Yext Account. Click Add an App. Give your app a name and create it.
+3. Click on API Credentials. Add the Knowledge API > Entities endpoint. Add the Read-Only permission.
+4. Copy your API Key.
+4. Navigate to Knowledge Graph > Connectors within your Yext Account. Click on the Get Actors for Movies Connector.
+5. Click Edit Configuration. In step 2, add API Key as the authentication method. Here, add `api_key` as the key and your new App API Key as the value.
+6. Save the connector and run it!
+
+
+
