@@ -19,7 +19,7 @@ export const getHeadConfig: GetHeadConfig<
   TemplateRenderProps
 > = (): HeadConfig => {
   return {
-    title: `YMBD`,
+    title: `YMDB`,
     charset: "UTF-8",
     viewport: "width=device-width, initial-scale=1",
   };
@@ -33,7 +33,7 @@ const Home: Template<TemplateRenderProps> = () => {
     >
       <div className="my-auto mx-auto w-[500px] ">
         <h1 className="font-extra-bold font-logo text-center text-7xl text-white">
-          YMBD
+          YMDB
         </h1>
         <SearchBar />
       </div>
